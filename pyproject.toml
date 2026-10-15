@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "unrealbuilder"
+version = "1.0.0"
+description = "Package Unreal Engine projects for Win64 from Linux, through a headless Windows engine under Wine"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Romain Rodriguez" }]
+# PySide6, psutil and pefile come from pacman (venv created with --system-site-packages).
+dependencies = [
+    "PySide6>=6.8",
+    "psutil>=5.9",
+    "pefile>=2023.2.7",
+    "tomli-w>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-qt>=4.4", "ruff>=0.6"]
+
+[project.scripts]
+unrealbuilder = "unrealbuilder.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+unrealbuilder = ["resources/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+qt_api = "pyside6"
+addopts = "-ra -m 'not systemd and not btrfs and not e2e'"
+markers = [
+    "systemd: needs a reachable systemd --user manager",
+    "btrfs: needs a btrfs directory (UB_TEST_BTRFS_DIR)",
+    "e2e: long manual end-to-end runs",
+]
+
+[tool.ruff]
+line-length = 140
+
+[tool.ruff.lint]
+select = ["F", "E9", "B"]
+ignore = ["B008"]

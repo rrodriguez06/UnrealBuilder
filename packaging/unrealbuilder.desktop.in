@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=UnrealBuilder
+GenericName=Unreal Engine Win64 builder
+Comment=Package Unreal Engine projects for Windows from Linux (Wine)
+Exec=@EXEC@
+Icon=unrealbuilder
+Terminal=false
+Categories=Development;Building;
+Keywords=Unreal;UE5;Wine;Win64;Build;Package;
+StartupWMClass=unrealbuilder
+StartupNotify=true

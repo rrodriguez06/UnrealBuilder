@@ -1,0 +1,66 @@
+MESA-EGL: warning: pci id for fd 36: 10de:2783, driver (null)
+pci id for fd 37: 10de:2783, driver (null)
+pci id for fd 38: 10de:2783, driver (null)
+MESA-EGL: warning: egl: failed to create dri2 screen
+MESA-EGL: warning: pci id for fd 36: 10de:2783, driver (null)
+pci id for fd 37: 10de:2783, driver (null)
+pci id for fd 38: 10de:2783, driver (null)
+MESA-EGL: warning: egl: failed to create dri2 screen
+MESA-EGL: warning: pci id for fd 36: 10de:2783, driver (null)
+Running AutomationTool...
+Using bundled DotNet SDK version: 10.0 win-x64
+Starting AutomationTool...
+Parsing command line: BuildCookRun -project=U:\win64-toolchain\poc\TestUnreal\TestUnreal.uproject -platform=Win64 -clientconfig=Development -build -skipcook -skipstage -nocompileeditor -unattended -utf8output -nop4
+Initializing script modules...
+Total script module initialization time: 0.56 s.
+Using U:\UE_5.8_Win64\Engine\Binaries\ThirdParty\DotNet\10.0\win-x64\dotnet.exe
+Executing commands...
+Setting up ProjectParams for U:\win64-toolchain\poc\TestUnreal\TestUnreal.uproject
+TestUnreal.uproject is has no code, but is being treated as a code-based project for platforms Android, IOS, Linux, Mac, TVOS, Win64 because: GameplayStateTree plugin is enabled. Creating temporary .Target.cs files.
+********** BUILD COMMAND STARTED **********
+Running: U:\UE_5.8_Win64\Engine\Binaries\ThirdParty\DotNet\10.0\win-x64\dotnet.exe "U:\UE_5.8_Win64\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" TestUnreal Win64 Development -Project=U:\win64-toolchain\poc\TestUnreal\TestUnreal.uproject  -remoteini="U:\win64-toolchain\poc\TestUnreal"   -log="C:\users\user\AppData\Roaming\Unreal Engine\AutomationTool\Logs\U+UE_5.8_Win64\UBA-TestUnreal-Win64-Development.txt"
+Log file: C:\users\user\AppData\Roaming\Unreal Engine\AutomationTool\Logs\U+UE_5.8_Win64\UBA-TestUnreal-Win64-Development.txt
+Determining max actions to execute in parallel (12 physical cores, 24 logical cores)
+  Executing up to 12 processes, one per physical core
+Creating makefile for TestUnreal (no existing makefile)
+UbaWine - FileMapping backing: memfd
+UbaServer - Listening on 0.0.0.0:1345
+UHT compiled-in object format Default
+Building TestUnreal...
+===== Toolchain Information =====
+Using ISPC compiler (U:\UE_5.8_Win64\Engine\Source\ThirdParty\Intel\ISPC\bin\Windows\ispc.exe)
+  Intel(r) Implicit SPMD Program Compiler (Intel(r) ISPC), 1.24.0 (build commit  @ 20250404, LLVM 18.1.2)
+Using Visual Studio 14.44.35229 toolchain (U:\win64-toolchain\sdks\HostWin64\Win64\VS2022\14.44.35207) and Windows 10.0.22621.0 SDK (U:\win64-toolchain\sdks\HostWin64\Win64\Windows Kits\10).
+[Adaptive Build] Excluded from TestUnreal unity file: TestUnreal.cpp
+=================================
+Using Unreal Build Accelerator local executor to run 11 action(s)
+  CPU 12 physical cores, 24 logical cores
+  Memory 30.45 GB physical, 15.74 GB/60.91 GB committed
+  UBA Storage capacity 40 GB
+[1/11] Copy D3D12Core.dll
+[2/11] Copy d3d12SDKLayers.dll
+[3/11] Copy TestUnreal-Default.rc2
+[4/11] Copy tbb12.dll
+[5/11] Copy tbbmalloc.dll
+[6/11] Copy DirectML.dll
+[7/11] Compile Resource [x64] TestUnreal-Default.rc2
+[8/11] Compile [x64] SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.cpp
+[9/11] Compile [x64] TestUnreal.cpp
+[10/11] Link [x64] TestUnreal.exe
+[11/11] WriteMetadata TestUnreal.target [NoUba]
+
+Total time in Unreal Build Accelerator local executor: 13.55 seconds
+Output binary: U:\win64-toolchain\poc\TestUnreal\Binaries\Win64\TestUnreal.exe
+
+Result: Succeeded
+Total execution time: 19.84 seconds
+Trace written to file C:\users\user\AppData\Local\UnrealBuildTool\Trace.uba with size 7.1kb
+Took 20.36s to run dotnet.exe, ExitCode=0
+No build products were made
+Build command time: 20.37 s
+********** BUILD COMMAND COMPLETED **********
+BuildCookRun time: 21.32 s
+BUILD SUCCESSFUL
+AutomationTool executed for 0h 0m 22s
+AutomationTool exiting with ExitCode=0 (Success)
+EXIT=0

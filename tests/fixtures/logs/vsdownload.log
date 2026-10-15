@@ -1,0 +1,1208 @@
+Install packages for x64 host architecture
+Fetching https://aka.ms/vs/17/release/channel
+Got toplevel manifest for 17.14.42
+Loaded installer manifest for 17.14.42
+Selected 471 packages, for a total download size of 2.2 GB, install size of 6.9 GB
+Downloading Microsoft.VisualStudio.VC.MSBuild.v170.ARM.v143-17.14.36015.10-productArch.neutral/payload.vsix (3.3 KB)
+Downloading Microsoft.VisualStudio.VC.MSBuild.v170.ARM-17.14.36015.10-productArch.neutral/payload.vsix (4.6 KB)
+Downloading Microsoft.VisualStudio.VC.MSBuild.v170.Base-17.14.36518.7-productArch.neutral/payload.vsix (598.4 KB)
+Downloading Microsoft.VisualStudio.VC.MSBuild.v170.Base.Resources-17.14.37502.0-productArch.neutral/payload.vsix (100.0 KB)
+Downloading Microsoft.VisualStudio.VC.MSBuild.v170.X64.v143-17.14.36015.10-productArch.neutral/payload.vsix (3.0 KB)
+Downloading Microsoft.VisualStudio.VC.MSBuild.v170.X64-17.14.36015.10-productArch.neutral/payload.vsix (5.1 KB)
+Downloading Microsoft.VisualStudio.VC.MSBuild.v170.x86.v143-17.14.36015.10-productArch.neutral/payload.vsix (3.0 KB)
+Downloading Microsoft.VisualStudio.VC.MSBuild.v170.X86-17.14.36015.10-productArch.neutral/payload.vsix (4.9 KB)
+Downloading Microsoft.Windows.UniversalCRT.Redistributable.Msi-10.0.26624/Universal CRT Redistributable-x86_en-us.msi (304.0 KB)
+Downloading Microsoft.Windows.UniversalCRT.Redistributable.Msi-10.0.26624/9126f6ff98d955951fe9323f4444c119.cab (445.0 KB)
+Downloading Microsoft.Windows.UniversalCRT.Redistributable.Msi-10.0.26624/948a611cd2aca64b1e5113ffb7b95d5f.cab (610.7 KB)
+Downloading Microsoft.Windows.UniversalCRT.Redistributable.Msi-10.0.26624/fef2cfedd6135e0ed85290b83f3682c3.cab (589.3 KB)
+Downloading Microsoft.VS.VC.vcvars.x64.Shortcuts-17.14.36015.10-productArch.neutral/payload.vsix (1.3 KB)
+Downloading Microsoft.VS.VC.vcvars.x86.Shortcuts-17.14.36015.10-productArch.neutral/payload.vsix (1.2 KB)
+Downloading Microsoft.VisualCpp.CRT.Headers-14.44.35220/Microsoft.VisualCpp.CRT.Headers.vsix (1.1 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.Headers.base-14.44.35220/Microsoft.VC.14.44.17.14.CRT.Headers.base.vsix (2.0 MB)
+Downloading Microsoft.VC.14.44.17.14.Servicing.CrtHeaders-14.44.35220/Microsoft.VC.14.44.17.14.Servicing.CrtHeaders.vsix (2.0 KB)
+Downloading Microsoft.VC.14.44.17.14.Servicing-14.44.35229/Microsoft.VC.14.44.17.14.Servicing.vsix (2.2 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.Headers.Resources-14.44.35220/Microsoft.VC.14.44.17.14.CRT.Headers.Resources.enu.vsix (1.1 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.Headers.Resources.base-14.44.35220/Microsoft.VC.14.44.17.14.CRT.Headers.Resources.base.enu.vsix (357.9 KB)
+Downloading Microsoft.VisualCpp.Redist.14-14.44.35211-chip.x64/VC_redist.x64.exe (24.4 MB)
+Downloading Microsoft.VisualCpp.Redist.14-14.44.35211-chip.x64/VCRedistInstall.ps1 (26.2 KB)
+Downloading Microsoft.Windows.UniversalCRT.Msu.7-10.0.26624.1-chip.x64/Windows6.1-KB2999226-x64.msu (1.0 MB)
+Downloading Microsoft.Windows.UniversalCRT.Msu.8-10.0.26624-chip.x64/Windows8-RT-KB2999226-x64.msu (1.3 MB)
+Downloading Microsoft.Windows.UniversalCRT.Msu.81-10.0.26624-chip.x64/Windows8.1-KB2999226-x64.msu (1.0 MB)
+Downloading Microsoft.VisualCpp.Servicing.Redist-14.44.35211/Microsoft.VisualCpp.Servicing.Redist.vsix (3.2 KB)
+Downloading Microsoft.VisualCpp.RuntimeDebug.14-14.44.35211-chip.x64-machineArch.x64/vc_RuntimeDebug.msi (208.0 KB)
+Downloading Microsoft.VisualCpp.RuntimeDebug.14-14.44.35211-chip.x64-machineArch.x64/cab1.cab (9.8 MB)
+Downloading Microsoft.VisualCpp.Redist.14.Latest-14.44.35211-chip.x64/VC_redist.x64.exe (24.4 MB)
+Downloading Microsoft.VisualCpp.Redist.14.Latest-14.44.35211-chip.x64/VCRedistInstall.ps1 (26.2 KB)
+Downloading Microsoft.VisualCpp.CRT.Redist.X64-14.44.35211/Microsoft.VisualCpp.CRT.Redist.X64.vsix (48.4 MB)
+Downloading Microsoft.VC.14.44.17.14.CRT.Redist.X64.base-14.44.35211/Microsoft.VC.14.44.17.14.CRT.Redist.X64.base.vsix (3.1 MB)
+Downloading Microsoft.VisualCpp.CRT.Redist.Resources-14.44.35211/Microsoft.VisualCpp.CRT.Redist.Resources.enu.vsix (1.0 KB)
+Downloading Microsoft.VisualCpp.CRT.Redist.X86-14.44.35211/Microsoft.VisualCpp.CRT.Redist.X86.vsix (26.1 MB)
+Downloading Microsoft.VC.14.44.17.14.CRT.Redist.X86.base-14.44.35211/Microsoft.VC.14.44.17.14.CRT.Redist.X86.base.vsix (2.8 MB)
+Downloading Microsoft.VisualCpp.CRT.Source-14.44.35220/Microsoft.VisualCpp.CRT.Source.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.Source.base-14.44.35220/Microsoft.VC.14.44.17.14.CRT.Source.base.vsix (1.1 MB)
+Downloading Microsoft.VisualCpp.CRT.x64.Desktop-14.44.35226/Microsoft.VisualCpp.CRT.x64.Desktop.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.x64.Desktop.base-14.44.35226/Microsoft.VC.14.44.17.14.CRT.x64.Desktop.base.vsix (49.1 MB)
+Downloading Microsoft.VisualCpp.CRT.x86.Desktop-14.44.35226/Microsoft.VisualCpp.CRT.x86.Desktop.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.x86.Desktop.base-14.44.35226/Microsoft.VC.14.44.17.14.CRT.x86.Desktop.base.vsix (84.8 MB)
+Downloading Microsoft.VisualCpp.DIA.SDK-14.44.35215/Microsoft.VisualCpp.DIA.SDK.vsix (7.9 MB)
+Downloading Microsoft.VisualCpp.Servicing.DIASDK-14.44.35215/Microsoft.VisualCpp.Servicing.DIASDK.vsix (2.0 KB)
+Downloading Microsoft.VisualCpp.Tools.Core.x86-14.44.35208/Microsoft.VisualCpp.Tools.Core.x86.vsix (5.3 KB)
+Downloading Microsoft.VisualCpp.Tools.Common.Utils-14.44.35208/Microsoft.VisualCpp.Tools.Common.Utils.vsix (68.0 KB)
+Downloading Microsoft.VisualCpp.Tools.Common.Utils.Resources-14.44.35208/Microsoft.VisualCpp.Tools.Common.Utils.Resources.enu.vsix (22.1 KB)
+Downloading Microsoft.VC.14.44.17.14.Tools.Core.Props-14.44.35208/Microsoft.VC.14.44.17.14.Tools.Core.Props.vsix (2.3 KB)
+Downloading Microsoft.VisualCpp.Tools.Core.Resources-14.44.35208/Microsoft.VisualCpp.Tools.Core.Resources.enu.vsix (1.0 KB)
+Downloading Microsoft.VisualCpp.CRT.ClickOnce.Msi-14.44.35211/vcpp_crt.redist.clickonce.msi (200.0 KB)
+Downloading Microsoft.VisualCpp.CRT.ClickOnce.Msi-14.44.35211/cab1.cab (12.4 KB)
+Downloading Microsoft.VisualCpp.CRT.Redist.x64.OneCore.Desktop-14.44.35211/Microsoft.VisualCpp.CRT.Redist.x64.OneCore.Desktop.vsix (1.1 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.Redist.x64.OneCore.Desktop.base-14.44.35211/Microsoft.VC.14.44.17.14.CRT.Redist.x64.OneCore.Desktop.base.vsix (1.7 MB)
+Downloading Microsoft.VisualCpp.CRT.Redist.x86.OneCore.Desktop-14.44.35211/Microsoft.VisualCpp.CRT.Redist.x86.OneCore.Desktop.vsix (1.1 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.Redist.x86.OneCore.Desktop.base-14.44.35211/Microsoft.VC.14.44.17.14.CRT.Redist.x86.OneCore.Desktop.base.vsix (1.6 MB)
+Downloading Microsoft.VisualCpp.CRT.x64.OneCore.Desktop-14.44.35226/Microsoft.VisualCpp.CRT.x64.OneCore.Desktop.vsix (1.1 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.x64.OneCore.Desktop.base-14.44.35226/Microsoft.VC.14.44.17.14.CRT.x64.OneCore.Desktop.base.vsix (52.8 MB)
+Downloading Microsoft.VisualCpp.CRT.x64.Store-14.44.35226/Microsoft.VisualCpp.CRT.x64.Store.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.x64.Store.base-14.44.35226/Microsoft.VC.14.44.17.14.CRT.x64.Store.base.vsix (26.7 MB)
+Downloading Microsoft.VisualCpp.CRT.x86.OneCore.Desktop-14.44.35226/Microsoft.VisualCpp.CRT.x86.OneCore.Desktop.vsix (1.1 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.x86.OneCore.Desktop.base-14.44.35226/Microsoft.VC.14.44.17.14.CRT.x86.OneCore.Desktop.base.vsix (48.6 MB)
+Downloading Microsoft.VisualCpp.CRT.x86.Store-14.44.35226/Microsoft.VisualCpp.CRT.x86.Store.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.CRT.x86.Store.base-14.44.35226/Microsoft.VC.14.44.17.14.CRT.x86.Store.base.vsix (26.2 MB)
+Downloading Microsoft.VisualCpp.PGO.Headers-14.44.35208/Microsoft.VisualCpp.PGO.Headers.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.PGO.Headers.base-14.44.35208/Microsoft.VC.14.44.17.14.PGO.Headers.base.vsix (1.8 KB)
+Downloading Microsoft.VisualCpp.PGO.X64-14.44.35219/Microsoft.VisualCpp.PGO.X64.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.PGO.X64.base-14.44.35219/Microsoft.VC.14.44.17.14.PGO.X64.base.vsix (17.6 KB)
+Downloading Microsoft.VisualCpp.PGO.X86-14.44.35219/Microsoft.VisualCpp.PGO.X86.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.PGO.X86.base-14.44.35219/Microsoft.VC.14.44.17.14.PGO.X86.base.vsix (17.9 KB)
+Downloading Microsoft.VisualCpp.Premium.Tools.HostX64.TargetX64-14.44.35219-chip.x64/Microsoft.VisualCpp.Premium.Tools.HostX64.TargetX64.vsix (1.1 KB)
+Downloading Microsoft.VC.14.44.17.14.Premium.Tools.HostX64.TargetX64.base-14.44.35219-chip.x64/Microsoft.VC.14.44.17.14.Premium.Tools.HostX64.TargetX64.base.vsix (226.7 KB)
+Downloading Microsoft.VC.14.44.17.14.Prem.HostX64.TargetX64.Res.base-14.44.35219-chip.x64/Microsoft.VC.14.44.17.14.Prem.HostX64.TargetX64.Res.base.enu.vsix (24.1 KB)
+Downloading Microsoft.VisualCpp.Tools.HostX64.TargetX64-14.44.35229-chip.x64/Microsoft.VisualCpp.Tools.HostX64.TargetX64.vsix (2.2 KB)
+Downloading Microsoft.VC.14.44.17.14.Tools.HostX64.TargetX64.base-14.44.35229-chip.x64/Microsoft.VC.14.44.17.14.Tools.HostX64.TargetX64.base.vsix (25.4 MB)
+Downloading Microsoft.VC.14.44.17.14.Tools.HostX64.TargetX64.Res.base-14.44.35229-chip.x64/Microsoft.VC.14.44.17.14.Tools.HostX64.TargetX64.Res.base.enu.vsix (220.3 KB)
+Downloading Microsoft.VC.14.44.17.14.Props.x64-14.44.35229/Microsoft.VC.14.44.17.14.Props.x64.vsix (2.2 KB)
+Downloading Microsoft.VC.14.44.17.14.Props-14.44.35229/Microsoft.VC.14.44.17.14.Props.vsix (4.0 KB)
+Downloading Microsoft.VC.14.44.17.14.Servicing.Compilers-14.44.35229/Microsoft.VC.14.44.17.14.Servicing.Compilers.vsix (2.0 KB)
+Downloading Microsoft.VisualStudio.StaticAnalysis.auxil-17.14.37502.0-productArch.neutral/payload.vsix (297.8 KB)
+Downloading Microsoft.VisualStudio.StaticAnalysis.auxil.Resources-17.14.37411.7-productArch.neutral/payload.vsix (1.1 KB)
+Downloading Microsoft.VisualStudio.StaticAnalysis.FxCop-17.14.37502.0-productArch.x64/payload.vsix (6.0 MB)
+Downloading Microsoft.VisualStudio.StaticAnalysis.FxCop.Resources-17.14.37411.7-productArch.neutral/payload.vsix (1.1 KB)
+Downloading Microsoft.VisualStudio.StaticAnalysis.IDE-17.14.37502.0-productArch.x64/payload.vsix (3.5 MB)
+Downloading Microsoft.VisualStudio.StaticAnalysis.IDE.Resources-17.14.37411.7-productArch.neutral/payload.vsix (33.9 KB)
+Downloading Microsoft.VisualCpp.CA.Ext.Hostx64.Targetx64-14.44.35214-chip.x64/Microsoft.VisualCpp.CA.Ext.Hostx64.Targetx64.vsix (1.1 KB)
+Downloading Microsoft.VC.14.44.17.14.CA.Ext.Hostx64.Targetx64.base-14.44.35214-chip.x64/Microsoft.VC.14.44.17.14.CA.Ext.Hostx64.Targetx64.base.vsix (3.8 MB)
+Downloading Microsoft.VC.14.44.17.14.CA.Ext.Hostx64.Targetx64.Res.base-14.44.35214-chip.x64/Microsoft.VC.14.44.17.14.CA.Ext.Hostx64.Targetx64.Res.base.enu.vsix (86.0 KB)
+Downloading Microsoft.VC.14.44.17.14.Servicing.CAExtensions-14.44.35214/Microsoft.VC.14.44.17.14.Servicing.CAExtensions.vsix (2.0 KB)
+Downloading Microsoft.VC.14.44.17.14.CA.Rulesets.base-14.44.35214/Microsoft.VC.14.44.17.14.CA.Rulesets.base.vsix (20.9 KB)
+Downloading Microsoft.VC.14.44.17.14.Servicing.CARulesets-14.44.35214/Microsoft.VC.14.44.17.14.Servicing.CARulesets.vsix (2.0 KB)
+Downloading Microsoft.VisualCpp.CodeAnalysis.Extensions-17.14.36015.10/payload.vsix (12.6 KB)
+Downloading Microsoft.VisualStudio.VC.UnitTest.Desktop.Build.Core-17.14.36324.10-productArch.neutral/payload.vsix (31.6 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.V1.CPP-17.14.36327.8-productArch.neutral/payload.vsix (22.9 KB)
+Downloading Microsoft.VisualStudio.TestTools.TP.V1.CPP.Resources-17.14.36327.8-productArch.neutral/payload.vsix (15.4 KB)
+Downloading Microsoft.VisualStudio.VC.ExternalBuildFramework-17.14.36109.1-productArch.neutral/payload.vsix (676.4 KB)
+Downloading Microsoft.VisualStudio.VC.ExternalBuildFramework.Resources-17.14.36511.5-productArch.neutral/payload.vsix (43.0 KB)
+Downloading Microsoft.VisualStudio.VC.CMake.Project-17.14.37628.2-productArch.x64/Microsoft.VisualStudio.VC.CMake.Project.x64.vsix (2.2 MB)
+Downloading Microsoft.VisualStudio.VC.CMake.Project.Resources-17.14.37628.2-productArch.neutral/payload.vsix (188.8 KB)
+Downloading Microsoft.VisualStudio.VC.CMake.Client-17.14.36015.10-productArch.neutral/payload.vsix (113.6 KB)
+Downloading Microsoft.VisualStudio.VC.CMake.Client.Resources-17.14.36015.10-productArch.neutral/payload.vsix (33.5 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Linux.Shared-17.14.36109.1-productArch.neutral/payload.vsix (67.5 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Linux.Shared.Resources-17.14.36511.4-productArch.neutral/payload.vsix (13.1 KB)
+Downloading SQLitePCLRaw-17.14.37628.1/payload.vsix (119.0 KB)
+Downloading SQLitePCLRaw.Targeted-17.14.37628.1-productArch.x64/SQLitePCLRaw.x64.vsix (1.0 MB)
+Downloading Microsoft.VisualStudio.VC.CMake-17.14.36017.18-productArch.x64/Microsoft.VisualStudio.VC.CMake.x64.vsix (21.1 MB)
+Downloading Microsoft.VisualStudio.WebTools-17.14.36015.10-productArch.x64/payload.vsix (24.7 MB)
+Downloading Microsoft.VisualStudio.MinShell.Targeted-17.14.37710.0-machineArch.x64-productArch.x64/Microsoft.VisualStudio.MinShell.x64.vsix (37.7 MB)
+Downloading Microsoft.VisualStudio.MinShell.Resources.x64-17.14.37806.2-chip.x64-productArch.x64/payload.vsix (1.2 MB)
+Downloading Microsoft.VisualStudio.Devenv.Config-17.14.37502.11-productArch.neutral/payload.vsix (1.8 KB)
+Downloading Microsoft.VisualStudio.NativeImageSupport-17.14.37627.15-productArch.x64/payload.vsix (24.9 KB)
+Downloading Microsoft.VisualStudio.ExtensionManager.x64-17.14.2150.10075-productArch.x64/Microsoft.VisualStudio.ExtensionManager.x64.vsix (1.7 MB)
+Downloading Microsoft.VisualStudio.ExtensionManager.Auto-17.14.2150.10075/Microsoft.VisualStudio.ExtensionManager.Auto.vsix (1.2 MB)
+Downloading Microsoft.VisualStudio.ExtensionManager.Auto.Resources-17.14.2150.10075/Microsoft.VisualStudio.ExtensionManager.Auto.vsix (125.7 KB)
+Downloading Microsoft.VisualStudio.WebTools.WSP.FSA-17.14.36015.10-productArch.x64/payload.vsix (269.7 KB)
+Downloading Microsoft.VisualStudio.WebTools.WSP.FSA.Resources-17.14.36015.10-productArch.neutral/payload.vsix (60.0 KB)
+Downloading Microsoft.VisualStudio.WebTools.Resources-17.14.37216.2-productArch.neutral/payload.vsix (834.7 KB)
+Downloading Microsoft.VisualStudio.WebToolsExtensions.MSBuild-17.14.156.658-productArch.neutral/Microsoft.VisualStudio.WebToolsExtensions.MSBuild.vsix (286.4 KB)
+Downloading Microsoft.VisualStudio.WebToolsExtensions.MSBuild.Resources-17.14.156.658-chip.neutral-productArch.neutral/Microsoft.VisualStudio.WebToolsExtensions.MSBuild.Resources.vsix (39.8 KB)
+Downloading Microsoft.VisualStudio.WebToolsExtensions-17.14.37516.0/Microsoft.VisualStudio.WebToolsExtensions.vsix (3.6 KB)
+Downloading Microsoft.VisualStudio.WebToolsExtensions.Core-17.14.156.658-productArch.neutral/Microsoft.VisualStudio.WebToolsExtensions.vsix (43.6 MB)
+Downloading Microsoft.WebTools.Shared-17.14.156.658-productArch.neutral/Microsoft.WebTools.Shared.vsix (1.2 MB)
+Downloading Microsoft.WebTools.DotNet.Core.ItemTemplates-17.11.2.25503-productArch.neutral/Microsoft.WebTools.DotNet.Core.ItemTemplates.vsix (5.8 KB)
+Downloading Microsoft.WebTools.DotNet.Core.ItemTemplates.Resources-17.11.2.25503-chip.neutral-productArch.neutral/Microsoft.WebTools.DotNet.Core.ItemTemplates.Resources.vsix (1.0 KB)
+Downloading Microsoft.WebTools.Shared.Resources-17.14.156.658-chip.neutral-productArch.neutral/Microsoft.WebTools.Shared.Resources.vsix (81.1 KB)
+Downloading Microsoft.VisualStudio.WebToolsExtensions.Resources-17.14.156.658-chip.neutral-productArch.neutral/Microsoft.VisualStudio.WebToolsExtensions.Resources.vsix (1.7 MB)
+Downloading Microsoft.VisualStudio.ConnectedServices.Core-17.14.156.658-productArch.neutral/Microsoft.VisualStudio.ConnectedServices.Core.vsix (1.5 MB)
+Downloading Microsoft.VisualStudio.ProTools-17.14.37411.7-productArch.x64/payload.vsix (4.8 MB)
+Downloading Microsoft.VisualStudio.ProTools.Resources-17.14.37411.7-productArch.neutral/payload.vsix (189.2 KB)
+Downloading SQLCommon-17.14.26.0-productArch.neutral/SqlCommon.vsix (8.1 MB)
+Downloading SQLCommon.Resources-17.14.26.0-productArch.neutral/SqlCommonLangs.vsix (698.3 KB)
+Downloading SQLCommon.Targeted-17.14.26.0-productArch.x64/SQLCommon.amd64.vsix (83.0 KB)
+Downloading sqlsysclrtypes-17.12.4.0-chip.x64/SQLSysClrTypes.msi (4.1 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.Base-17.14.36414.8-productArch.x64/payload.vsix (1.5 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.Base.Resources-17.14.37411.7-productArch.neutral/payload.vsix (11.8 KB)
+Downloading Microsoft.VisualStudio.MinShell-17.14.37806.7-productArch.neutral/payload.vsix (9.1 MB)
+Downloading Microsoft.VisualStudio.MinShell.Auto-17.14.37806.2/Microsoft.VisualStudio.MinShell.Auto.vsix (5.1 MB)
+Downloading Microsoft.VisualStudio.MinShell.Auto.Resources-17.14.37806.2/Microsoft.VisualStudio.MinShell.Auto.vsix (236.1 KB)
+Downloading Microsoft.VisualStudio.CoreDotNet-17.14.37502.0/Microsoft.VisualStudio.CoreDotNet.vsix (3.4 MB)
+Downloading Microsoft.VisualStudio.CoreDotNet.Resources-17.14.37502.0/Microsoft.VisualStudio.CoreDotNet.vsix (41.7 KB)
+Downloading Microsoft.VisualStudio.UIInternal-17.14.37806.2/Microsoft.VisualStudio.UIInternal.vsix (8.5 MB)
+Downloading Microsoft.VisualStudio.UIInternal.Resources-17.14.37806.2/Microsoft.VisualStudio.UIInternal.vsix (1.9 MB)
+Downloading Microsoft.VisualStudio.UIInternal.Guide-17.14.37502.0/Microsoft.VisualStudio.UIInternal.Guide.vsix (14.8 MB)
+Downloading Microsoft.VisualStudio.Platform.Editor-17.14.306.48394/Microsoft.VisualStudio.Platform.Editor.vsix (8.0 MB)
+Downloading Microsoft.VisualStudio.ExtensionManager-17.14.2150.10075/Microsoft.VisualStudio.ExtensionManager.vsix (3.6 MB)
+Downloading Microsoft.VisualStudio.Initializer-17.14.36015.10/VSInitializer.exe (83.0 KB)
+Downloading Microsoft.VisualStudio.MefHosting-17.14.434.5694/Microsoft.VisualStudio.MefHosting.vsix (108.2 KB)
+Downloading Microsoft.VisualStudio.MefHosting.Resources-17.14.434.5694/Microsoft.VisualStudio.MefHosting.vsix (21.4 KB)
+Downloading Microsoft.VisualStudio.Platform.Terminal-17.14.434.5694-productArch.x64/Microsoft.VisualStudio.Platform.Terminal.x64.vsix (21.0 MB)
+Downloading Microsoft.VisualStudio.LanguageServer-17.14.63.3079/Microsoft.VisualStudio.LanguageServer.vsix (1.1 MB)
+Downloading Microsoft.VisualStudio.Extensibility.Container-17.14.2099.59265/Microsoft.VisualStudio.Extensibility.Container.vsix (0.9 MB)
+Downloading Microsoft.VisualStudio.Setup.Configuration-3.12.2140.44225/Microsoft.VisualStudio.Setup.Configuration.msi (1.3 MB)
+Downloading Microsoft.VisualStudio.Setup.Configuration.Interop-17.14.36015.10/payload.vsix (13.5 KB)
+Downloading Microsoft.VisualStudio.Setup.WMIProvider-3.12.2140.44225/Microsoft.VisualStudio.Setup.WMIProvider.msi (1.5 MB)
+Downloading Microsoft.Net.8.0.WindowsDesktop.Runtime-17.14.37806.7-productArch.x64/windowsdesktop-runtime-x64.zip (35.1 MB)
+Downloading Microsoft.Net.8.0.Runtime-17.14.37806.7-productArch.x64/aspnetcore-runtime-x64.zip (43.4 MB)
+Downloading Microsoft.VisualStudio.VsWebProtocolSelector.Msi-17.14.36323.16/Microsoft.VisualStudio.VsWebProtocolSelector.Msi.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.VsWebProtocolSelector.Msi-17.14.36323.16/cab1.cab (393.9 KB)
+Downloading Microsoft.VisualStudio.VsWebProtocolSelector.Msi.Resources-17.14.36323.16/Microsoft.VisualStudio.VsWebProtocolSelector.Msi.Resources.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.VsWebProtocolSelector.Msi.Resources-17.14.36323.16/cab1.cab (129.8 KB)
+Downloading Microsoft.VisualStudio.GitHubProtocolHandler.Msi-17.14.36015.10/Microsoft.VisualStudio.GitHubProtocolHandler.Msi.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.GitHubProtocolHandler.Msi-17.14.36015.10/cab1.cab (1.3 MB)
+Downloading Microsoft.VisualStudio.IdentityDependencies-17.14.37531.7-productArch.neutral/payload.vsix (4.1 MB)
+Downloading Microsoft.VisualStudio.Licensing-17.14.37531.7-productArch.neutral/payload.vsix (505.3 KB)
+Downloading Microsoft.VisualStudio.Copilot.Contracts-17.14.1722.21010/Microsoft.VisualStudio.Copilot.Contracts.vsix (0.9 MB)
+Downloading Microsoft.VisualStudio.OpenTelemetry.ClientExtensions.netfx-0.2.104.22364/Microsoft.VisualStudio.OpenTelemetry.ClientExtensions.netfx.vsix (223.3 KB)
+Downloading Microsoft.VisualStudio.OpenTelemetry.Collector.netfx-0.2.104.22364/Microsoft.VisualStudio.OpenTelemetry.Collector.netfx.vsix (76.7 KB)
+Downloading Microsoft.VisualStudio.VC.Llvm.Base-17.14.36015.10-productArch.neutral/payload.vsix (59.3 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.LanguageService-17.14.37710.0-productArch.x64/payload.vsix (20.6 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.LanguageService.Resources-17.14.37502.0-productArch.x64/payload.vsix (0.9 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.ProjectSystem-17.14.37628.2-productArch.x64/payload.vsix (3.3 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.Core.VCProjectEngine-17.14.36015.10-productArch.neutral/payload.vsix (62.5 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Core.VCProjectEngine.Resources-17.14.36015.10-productArch.neutral/payload.vsix (49.8 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.ProjectSystem.Resources-17.14.37411.7-productArch.x64/payload.vsix (180.1 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Core-17.14.37502.0-productArch.x64/payload.vsix (428.3 KB)
+Downloading Microsoft.VisualStudio.VisualC.Utilities-17.14.37502.0-productArch.neutral/payload.vsix (137.6 KB)
+Downloading Microsoft.VisualStudio.VisualC.Utilities.Resources-17.14.37502.0-productArch.neutral/payload.vsix (1.1 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.LanguageService.Dependencies-17.14.37502.0/Microsoft.VisualStudio.VC.Ide.LanguageService.Dependencies.vsix (21.2 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.LanguageService.Dependencies.Resources-17.14.37502.0/Microsoft.VisualStudio.VC.Ide.LanguageService.Dependencies.vsix (10.3 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Progression.Enterprise-17.14.36015.10-productArch.x64/payload.vsix (280.4 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Progression.Enterprise.Resources-17.14.36015.10-productArch.neutral/payload.vsix (21.9 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.ResourceEditor-17.14.36915.8-productArch.x64/payload.vsix (4.2 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.ResourceEditor.Resources-17.14.37502.0-productArch.neutral/payload.vsix (451.2 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.VCPkgDatabase-17.14.36015.10-productArch.neutral/payload.vsix (1.1 MB)
+Downloading Microsoft.VisualStudio.VC.Copilot.Setup-17.14.35806.103/Microsoft.VisualStudio.VC.Copilot.Setup.vsix (41.1 KB)
+Downloading Microsoft.VisualStudio.VC.Copilot.Setup.Resources-17.14.35806.103/Microsoft.VisualStudio.VC.Copilot.Setup.vsix (10.1 KB)
+Downloading Microsoft.VisualStudio.Cache.Service-17.11.212.58250-productArch.x64/Microsoft.VisualStudio.Cache.Service.vsix (8.8 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.Common-17.14.36915.8-productArch.x64/payload.vsix (2.5 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.Common.Resources-17.14.36015.10-productArch.neutral/payload.vsix (33.5 KB)
+Downloading Microsoft.VisualStudio.VC.MSVCDis-17.14.36413.42-productArch.x64/payload.vsix (524.2 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Debugger-17.14.36603.0-productArch.x64/payload.vsix (4.8 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.Debugger.Resources-17.14.37411.7-productArch.x64/payload.vsix (84.3 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Debugger.Concord-17.14.37202.16-productArch.x64/payload.vsix (169.4 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Debugger.Concord.Resources-17.14.37202.16-productArch.x64/payload.vsix (12.5 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Dskx-17.14.36015.10-productArch.neutral/payload.vsix (813.5 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Dskx.Resources-17.14.37409.10-productArch.neutral/payload.vsix (40.5 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.WinXPlus-17.14.36015.10-productArch.neutral/payload.vsix (34.8 KB)
+Downloading Microsoft.VisualStudio.Debugger-17.14.37628.2-productArch.x64/payload.vsix (8.3 MB)
+Downloading Microsoft.VisualStudio.Debugger.Remote.DiagnosticsHub.Client-17.14.37612.6-machineArch.x64-productArch.neutral/payload.vsix (26.1 KB)
+Downloading Microsoft.VisualStudio.Debugger.Package.DiagHub.Client-17.14.37612.6-productArch.x64/payload.vsix (26.0 KB)
+Downloading Microsoft.VisualStudio.PerfLib-17.14.36413.42-productArch.x64/payload.vsix (2.9 MB)
+Downloading Microsoft.DiaSymReader.PortablePdb-17.14.36015.10-productArch.neutral/payload.vsix (49.4 KB)
+Downloading Microsoft.VisualStudio.Debugger.Resources-17.14.37628.2-productArch.x64/payload.vsix (213.5 KB)
+Downloading Microsoft.VisualStudio.Debugger.Concord-17.14.37202.16-machineArch.x64-productArch.x64/payload.vsix (4.5 MB)
+Downloading Microsoft.VisualStudio.Debugger.Concord.Resources-17.14.37202.16-productArch.x64/payload.vsix (36.7 KB)
+Downloading Microsoft.IntelliTrace.DiagnosticsHub-17.14.36015.10-productArch.neutral/payload.vsix (168.4 KB)
+Downloading Microsoft.IntelliTrace.DiagnosticsHub.Resources-17.14.36015.10-productArch.neutral/payload.vsix (15.6 KB)
+Downloading Microsoft.VisualStudio.Debugger.DbgHelp.Win8-17.14.36015.10-productArch.x64/payload.vsix (705.5 KB)
+Downloading Microsoft.VisualStudio.Editors-17.14.15.26328/VisualStudioEditorsSetup.vsix (2.9 MB)
+Downloading Microsoft.VisualStudio.AzureSDK-17.14.36015.10-productArch.neutral/payload.vsix (1.2 MB)
+Downloading Microsoft.VisualStudio.Debugger.Remote-17.14.37502.0-chip.x64-machineArch.x64-productArch.neutral/payload.vsix (6.9 MB)
+Downloading Microsoft.VisualStudio.Debugger.Remote.Resources-17.14.37409.10-chip.x64-productArch.neutral/payload.vsix (68.8 KB)
+Downloading Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8-17.14.36015.10-chip.x64-productArch.neutral/payload.vsix (705.7 KB)
+Downloading Microsoft.VisualStudio.Debugger.Concord.Remote-17.14.37202.16-chip.x64-machineArch.x64-productArch.neutral/payload.vsix (4.1 MB)
+Downloading Microsoft.VisualStudio.Debugger.Concord.Remote.Resources-17.14.37202.16-chip.x64-machineArch.x64-productArch.neutral/payload.vsix (27.7 KB)
+Downloading Microsoft.VisualStudio.Debugger.TargetComposition-17.14.36015.10-productArch.x64/payload.vsix (1.1 MB)
+Downloading Microsoft.VisualStudio.Debugger.TargetComposition.Remote-17.14.36015.10-chip.x64-productArch.neutral/payload.vsix (1.1 MB)
+Downloading Microsoft.VisualStudio.Debugger.Managed-17.14.36212.18-productArch.x64/payload.vsix (3.2 MB)
+Downloading Microsoft.VisualStudio.Debugger.Managed.Resources-17.14.37411.7-productArch.x64/payload.vsix (44.6 KB)
+Downloading Microsoft.VisualStudio.Debugger.Concord.Managed-17.14.37202.16-productArch.x64/payload.vsix (804.5 KB)
+Downloading Microsoft.VisualStudio.Debugger.Concord.Managed.Resources-17.14.37202.16-productArch.x64/payload.vsix (1.1 KB)
+Downloading Microsoft.CodeAnalysis.VisualStudio.ServiceHub.Setup.x64-4.14.0.2642407-productArch.x64/Roslyn.VisualStudio.ServiceHub.Setup.x64.vsix (58.1 MB)
+Downloading Microsoft.CodeAnalysis.VisualStudio.Setup-4.14.0.2642407-productArch.Neutral/Roslyn.VisualStudio.Setup.vsix (41.4 MB)
+Downloading Microsoft.CodeAnalysis.ExpressionEvaluator-4.14.0.2642407-productArch.Neutral/ExpressionEvaluatorPackage.vsix (404.6 KB)
+Downloading Microsoft.DiaSymReader-17.14.37502.0-productArch.neutral/payload.vsix (38.0 KB)
+Downloading Microsoft.VisualStudio.Debugger.Parallel-17.14.37027.9-productArch.x64/payload.vsix (482.6 KB)
+Downloading Microsoft.VisualStudio.Debugger.Parallel.Resources-17.14.37027.9-productArch.x64/payload.vsix (105.9 KB)
+Downloading Microsoft.VisualStudio.Debugger.CollectionAgents-17.14.37202.16-chip.x64-machineArch.x64-productArch.neutral/payload.vsix (96.1 KB)
+Downloading Microsoft.VisualStudio.Debugger.TimeTravel.Replay.Plat.17-1.4.1.35171-chip.x64-productArch.x64/Microsoft.VisualStudio.Debugger.TimeTravel.Replay.Plat.17.vsix (1.1 MB)
+Downloading Microsoft.VisualStudio.Debugger.TimeTravel.Replay.17-1.4.1.35171-chip.x64-productArch.neutral/Microsoft.VisualStudio.Debugger.TimeTravel.Replay.17.vsix (3.4 MB)
+Downloading Microsoft.VisualStudio.Debugger.TimeTravel.Replay.VS.17-2.1.1.35171-chip.x64-productArch.neutral/Microsoft.VisualStudio.Debugger.TimeTravel.Replay.VS.17.vsix (290.7 KB)
+Downloading Microsoft.VisualStudio.Debugger.AzureAttach-17.14.37027.9/payload.vsix (50.2 KB)
+Downloading Microsoft.VisualStudio.Debugger.AzureAttach.Resources-17.14.37027.9/payload.vsix (19.6 KB)
+Downloading Microsoft.VisualStudio.Web.Azure.Common-17.14.156.658-productArch.neutral/Microsoft.VisualStudio.Web.Azure.Common.vsix (885.1 KB)
+Downloading Microsoft.VisualStudio.Web.Azure.Common.Resources-17.14.156.658-chip.neutral-productArch.neutral/Microsoft.VisualStudio.Web.Azure.Common.Resources.vsix (58.6 KB)
+Downloading Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost-17.14.10522.1-productArch.neutral/Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.vsix (508.0 KB)
+Downloading Microsoft.VisualStudio.Debugger.BrokeredServices-17.14.0.2605801/Microsoft.VisualStudio.Debugger.BrokeredServices.vsix (222.6 KB)
+Downloading Microsoft.VisualStudio.Debugger.Script-17.14.36015.10-productArch.x64/payload.vsix (165.4 KB)
+Downloading Microsoft.VisualStudio.Debugger.Script.Remote-17.14.36015.10-chip.x64-productArch.neutral/payload.vsix (243.0 KB)
+Downloading Microsoft.VisualStudio.Debugger.Script.Remote.Resources-17.14.36015.10-chip.x64-productArch.neutral/payload.vsix (10.5 KB)
+Downloading Microsoft.VisualStudio.Debugger.Script.Resources-17.14.36015.10-productArch.x64/payload.vsix (10.4 KB)
+Downloading Microsoft.VisualStudio.Debugger.Script.Msi-17.14.36015.10-machineArch.x64/scriptdebugging_x64.msi (3.0 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.x64-17.14.36413.42-chip.x64-productArch.neutral/payload.vsix (0.9 MB)
+Downloading Microsoft.VisualStudio.Connected-17.14.37806.2-productArch.neutral/payload.vsix (3.8 MB)
+Downloading Microsoft.VisualStudio.Connected.Resources-17.14.37806.2-productArch.neutral/payload.vsix (1.1 KB)
+Downloading Microsoft.VisualStudio.Connected.Auto-17.14.37628.2/Microsoft.VisualStudio.Connected.Auto.vsix (1.2 MB)
+Downloading Microsoft.VisualStudio.Connected.Auto.Resources-17.14.37628.2/Microsoft.VisualStudio.Connected.Auto.vsix (140.5 KB)
+Downloading Microsoft.Developer.IdentityServiceGS-17.14.95.15710/Microsoft.Developer.IdentityServiceGS.vsix (26.8 KB)
+Downloading Microsoft.VisualStudio.Identity-17.14.95.15710-productArch.x64/Microsoft.VisualStudio.Identity.vsix (37.5 MB)
+Downloading Microsoft.VisualStudio.CoreEditor-17.14.36414.4-machineArch.x64-productArch.x64/payload.vsix (1.3 MB)
+Downloading Microsoft.VisualStudio.Platform.NavigateTo-17.14.306.48394-productArch.neutral/Microsoft.VisualStudio.Platform.NavigateTo.vsix (41.9 KB)
+Downloading Microsoft.VisualStudio.CoreEditor.UserProfiles-17.14.37027.9/UserProfiles.vsix (253.9 KB)
+Downloading Microsoft.VisualStudio.Devenv-17.14.37806.7-productArch.x64/payload.vsix (554.0 KB)
+Downloading Microsoft.VisualStudio.Devenv.Resources-17.14.37111.13-productArch.x64/payload.vsix (80.1 KB)
+Downloading Microsoft.VisualStudio.ErrorList-17.14.306.48394-productArch.neutral/Microsoft.VisualStudio.ErrorList.vsix (449.1 KB)
+Downloading Microsoft.VisualStudio.Finalizer-17.14.36107.29/Microsoft.VisualStudio.Finalizer.vsix (566.0 KB)
+Downloading Microsoft.VisualStudio.Log-17.14.37628.1-productArch.x64/payload.vsix (1.8 MB)
+Downloading Microsoft.VisualStudio.Log.Resources-17.14.36015.10-productArch.neutral/payload.vsix (26.3 KB)
+Downloading Microsoft.VisualStudio.Log.Targeted-17.14.36623.1-machineArch.x64-productArch.neutral/payload.vsix (46.7 KB)
+Downloading CoreEditorFonts-17.7.40001.1-productArch.neutral/CoreEditorFonts.msi (44.0 KB)
+Downloading CoreEditorFonts-17.7.40001.1-productArch.neutral/cab1.cab (161.3 KB)
+Downloading Microsoft.VisualStudio.NgenRunner-17.14.37627.8/Microsoft.VisualStudio.NgenRunner.vsix (19.8 KB)
+Downloading Microsoft.VisualStudio.MinShell.Interop-17.14.37502.11-productArch.x64/payload.vsix (1.4 MB)
+Downloading Microsoft.VisualStudio.MinShell.Msi-17.14.36301.6-productArch.x64/Microsoft.VisualStudio.MinShell.x64.Msi.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.MinShell.Msi-17.14.36301.6-productArch.x64/cab1.cab (20.9 KB)
+Downloading Microsoft.VisualStudio.MinShell.Shared.Msi-17.14.36024.20/Microsoft.VisualStudio.MinShell.Shared.Msi.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.MinShell.Shared.Msi-17.14.36024.20/cab1.cab (124.2 KB)
+Downloading Microsoft.VisualStudio.MinShell.Msi.Resources-17.14.36015.10/Microsoft.VisualStudio.MinShell.Msi.Resources.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.MinShell.Msi.Resources-17.14.36015.10/cab1.cab (46.4 KB)
+Downloading Microsoft.VisualStudio.FileHandler.Msi-17.14.36024.20-chip.x64/Microsoft.VisualStudio.FileHandler.Msi.x64.msi (212.0 KB)
+Downloading Microsoft.VisualStudio.FileHandler.Msi-17.14.36024.20-chip.x64/cab1.cab (1.3 MB)
+Downloading Microsoft.VisualStudio.OpenFolder.VSIX-17.14.19.35741/Microsoft.VisualStudio.OpenFolder.vsix (5.0 MB)
+Downloading Microsoft.VisualStudio.ProjectServices-17.14.4.39764-productArch.x64/Microsoft.VisualStudio.ProjectServices.vsix (104.1 KB)
+Downloading Microsoft.ServiceHub.amd64-4.6.2063.29974-productArch.x64/Microsoft.ServiceHub.amd64.vsix (304.0 KB)
+Downloading Microsoft.Net.10.0.Runtime-17.14.37806.7-productArch.x64/aspnetcore-runtime-x64.zip (46.3 MB)
+Downloading Microsoft.Net.10.0.WindowsDesktop.Runtime-17.14.37806.7-productArch.x64/windowsdesktop-runtime-x64.zip (37.4 MB)
+Downloading Microsoft.ServiceHub.Managed-4.6.2063.29974/Microsoft.ServiceHub.Managed.vsix (1.3 MB)
+Downloading Microsoft.ServiceHub.Node-4.6.2063.29974/Microsoft.ServiceHub.Node.vsix (167.6 KB)
+Downloading Microsoft.VisualStudio.TeamExplorer-17.14.37801.4-productArch.x64/Microsoft.VisualStudio.TeamExplorer.vsix (48.5 MB)
+Downloading Microsoft.VisualStudio.Platform.Markdown-17.14.306.48394-productArch.neutral/Microsoft.VisualStudio.Platform.Markdown.vsix (1.4 MB)
+Downloading Microsoft.VisualStudio.TextMateGrammars-17.14.306.48394-productArch.neutral/Microsoft.VisualStudio.TextMateGrammars.vsix (1.0 MB)
+Downloading Microsoft.VisualStudio.GraphProvider-17.14.36015.10-productArch.neutral/payload.vsix (735.3 KB)
+Downloading Microsoft.VisualStudio.GraphProvider.Resources-17.14.37411.7-productArch.neutral/payload.vsix (74.2 KB)
+Downloading Microsoft.VisualStudio.GraphProvider.Auto-17.13.35507.71/Microsoft.VisualStudio.GraphProvider.Auto.vsix (185.9 KB)
+Downloading Microsoft.VisualStudio.GraphProvider.Auto.Resources-17.13.35507.71/Microsoft.VisualStudio.GraphProvider.Auto.vsix (62.6 KB)
+Downloading Microsoft.VisualStudio.GraphModel-17.14.36015.10-productArch.neutral/payload.vsix (264.6 KB)
+Downloading Microsoft.VisualStudio.GraphModel.Resources-17.14.37411.7-productArch.neutral/payload.vsix (17.1 KB)
+Downloading Microsoft.VisualStudio.PerformanceProvider-17.14.36015.10-productArch.neutral/payload.vsix (40.0 KB)
+Downloading Microsoft.VisualStudio.VirtualTree-17.14.36015.10-productArch.neutral/payload.vsix (138.8 KB)
+Downloading Microsoft.VisualStudio.VirtualTree.Resources-17.14.36015.10-productArch.neutral/payload.vsix (11.6 KB)
+Downloading Microsoft.VisualCpp.Tools.Common.UtilsPrereq-17.14.36413.42-productArch.neutral/payload.vsix (3.2 MB)
+Downloading Microsoft.VisualStudio.ScriptedHost-17.14.137.33083/Microsoft.VisualStudio.ScriptedHost.vsix (474.4 KB)
+Downloading Microsoft.VisualStudio.ScriptedHost.Resources-17.14.137.33083/Microsoft.VisualStudio.ScriptedHost.vsix (23.7 KB)
+Downloading Microsoft.VisualStudio.ScriptedHost.Targeted-17.14.137.33083-productArch.x64/Microsoft.VisualStudio.ScriptedHost.vsix (83.0 KB)
+Downloading Microsoft.WebView2-131.0.2903.86-machineArch.x64-productArch.neutral/MicrosoftEdgeWebView2RuntimeInstallerX64.exe (173.8 MB)
+Downloading Microsoft.DiagnosticsHub.Collection.Service-17.14.36412.1-machineArch.x64-productArch.neutral/Microsoft.DiagnosticsHub.Collection.Service.Msi.x64.msi (52.0 KB)
+Downloading Microsoft.DiagnosticsHub.Collection.Service-17.14.36412.1-machineArch.x64-productArch.neutral/cabx64_1.cab (453.3 KB)
+Downloading Microsoft.DiagnosticsHub.Collection-17.14.37606.2-machineArch.x64-productArch.neutral/Microsoft.DiagnosticsHub.Collection.x64.vsix (0.9 MB)
+Downloading Microsoft.DiagnosticsHub.Runtime-17.14.37606.2-productArch.neutral/Microsoft.DiagnosticsHub.Runtime.vsix (2.7 MB)
+Downloading Microsoft.DiagnosticsHub.Runtime.Resources-17.14.37606.2-productArch.neutral/Microsoft.DiagnosticsHub.Runtime.Resources.csy.vsix (148.2 KB)
+Downloading Microsoft.DiagnosticsHub.Runtime.Targeted-17.14.37606.2-productArch.x64/Microsoft.DiagnosticsHub.Runtime.Targeted.x64.vsix (5.3 MB)
+Downloading Microsoft.VisualStudio.MinShell.Interop.Msi-17.14.36015.10-productArch.x64/Microsoft.VisualStudio.MinShell.Interop.x64.Msi.msi (720.0 KB)
+Downloading Microsoft.VisualStudio.MinShell.Interop.Msi-17.14.36015.10-productArch.x64/cab1.cab (182.0 KB)
+Downloading Microsoft.VisualStudio.MinShell.Interop.Shared.Msi-17.14.36015.10/Microsoft.VisualStudio.MinShell.Interop.Shared.Msi.msi (280.0 KB)
+Downloading Microsoft.VisualStudio.MinShell.Interop.Shared.Msi-17.14.36015.10/cab1.cab (398.2 KB)
+Downloading Microsoft.VisualStudio.Devenv.Msi-17.14.36015.10-productArch.neutral/Microsoft.VisualStudio.Devenv.x64.Msi.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.Devenv.Shared.Msi-17.14.36015.10/Microsoft.VisualStudio.Devenv.Shared.Msi.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.Community.Msi-17.14.36025.13-machineArch.x64/Microsoft.VisualStudio.Community.x64.Msi.msi (252.0 KB)
+Downloading Microsoft.VisualStudio.Community.Msi-17.14.36025.13-machineArch.x64/cab1.cab (266.7 KB)
+Downloading Microsoft.VisualStudio.Community.Shared.Msi-17.14.36025.13/Microsoft.VisualStudio.Community.Shared.Msi.msi (288.0 KB)
+Downloading Microsoft.VisualStudio.Community.Shared.Msi-17.14.36025.13/cab1.cab (3.6 MB)
+Downloading Microsoft.VisualStudio.Community.Msi.Resources-17.14.36015.10/Microsoft.VisualStudio.Community.Msi.Resources.msi (200.0 KB)
+Downloading Microsoft.VisualStudio.Community.Msi.Resources-17.14.36015.10/cab1.cab (14.0 KB)
+Downloading Microsoft.VisualStudio.Community.ProductArch.Neutral-17.14.37502.11-productArch.neutral/payload.vsix (5.3 MB)
+Downloading Microsoft.VisualStudio.Community.ProductArch.NeutralExtra-17.14.37502.11-productArch.neutral/payload.vsix (9.8 KB)
+Downloading Microsoft.VisualStudio.Platform.CallHierarchy-17.14.306.48394-productArch.neutral/Microsoft.VisualStudio.Platform.CallHierarchy.vsix (280.6 KB)
+Downloading Microsoft.MSHtml-17.14.36015.10-productArch.neutral/payload.vsix (1.6 MB)
+Downloading Microsoft.VisualStudio.WebSiteProject.DTE-17.14.36015.10-productArch.neutral/payload.vsix (48.2 KB)
+Downloading Microsoft.VisualStudio.Diagnostics.AspNetHelper-17.14.36015.10-productArch.neutral/payload.vsix (1.2 KB)
+Downloading Microsoft.VisualStudio.Diagnostics.AspNetHelper.Enterprise-17.14.36015.10-productArch.neutral/payload.vsix (147.4 KB)
+Downloading Microsoft.VisualStudio.Diagnostics.AspNetHelper.Resources-17.14.36015.10-productArch.neutral/payload.vsix (13.1 KB)
+Downloading Microsoft.VisualStudio.Diagnostics.AspNetHelper.Standard-17.14.36015.10-productArch.neutral/payload.vsix (50.1 KB)
+Downloading Microsoft.VisualStudio.Community.ProductArch.Resources.Neutral-17.14.37411.7-productArch.neutral/payload.vsix (410.3 KB)
+Downloading Microsoft.VisualStudio.Community.ProductArch.Resources.NeutralExtra-17.14.37411.7-productArch.neutral/payload.vsix (40.1 KB)
+Downloading Microsoft.VisualStudio.Net.Eula.Resources-17.14.36015.10-productArch.neutral/payload.vsix (19.8 KB)
+Downloading Microsoft.VisualStudio.Community.ProductArch.Resources.Targeted-17.14.37411.7-productArch.x64/payload.vsix (317.1 KB)
+Downloading Microsoft.VisualStudio.Community.CSharp.Resources.Neutral-17.14.37502.0-productArch.neutral/payload.vsix (83.0 KB)
+Downloading Microsoft.VisualStudio.Community.CSharp.Resources.Targeted-17.14.36511.2-productArch.x64/payload.vsix (46.6 KB)
+Downloading Microsoft.VisualStudio.Community.VB.Resources.Neutral-17.14.37502.0-productArch.neutral/payload.vsix (429.0 KB)
+Downloading Microsoft.VisualStudio.Community.VB.Resources.Targeted-17.14.37411.7-productArch.x64/payload.vsix (142.8 KB)
+Downloading Microsoft.IntelliTrace.CollectorCab-17.14.36015.10-productArch.neutral/payload.vsix (2.7 MB)
+Downloading Microsoft.VisualStudio.Community.ProductArch.Targeted-17.14.36811.4-productArch.x64/payload.vsix (8.1 MB)
+Downloading Microsoft.VisualStudio.Community.ProductArch.TargetedExtra-17.14.36015.10-productArch.x64/payload.vsix (478.0 KB)
+Downloading Microsoft.VisualStudio.Community.CSharp.Neutral-17.14.36906.2-productArch.neutral/payload.vsix (14.6 KB)
+Downloading Microsoft.VisualStudio.Community.CSharp.Targeted-17.14.36015.10-productArch.x64/payload.vsix (1.6 MB)
+Downloading Microsoft.VisualStudio.Community.VB.Neutral-17.14.36906.2-productArch.neutral/payload.vsix (9.0 KB)
+Downloading Microsoft.VisualStudio.Community.VB.Targeted-17.14.36015.10-productArch.x64/payload.vsix (5.8 MB)
+Downloading Microsoft.VisualStudio.Community.x64-17.14.36015.10-chip.x64-productArch.neutral/payload.vsix (340.1 KB)
+Downloading Microsoft.VisualStudio.ProjectSystem.Full-17.14.145.11861/Microsoft.VisualStudio.ProjectSystem.Full.vsix (1.3 KB)
+Downloading Microsoft.VisualStudio.ProjectSystem-17.14.145.11861/Microsoft.VisualStudio.ProjectSystem.Vsix (5.0 MB)
+Downloading Microsoft.VisualStudio.ProjectSystem.Query-17.14.145.11861/Microsoft.VisualStudio.ProjectSystem.Query.Vsix (684.3 KB)
+Downloading Microsoft.VisualStudio.LiveShareApi-17.14.37628.2/payload.vsix (22.1 KB)
+Downloading Microsoft.VisualStudio.Enterprise-17.14.36015.10-productArch.neutral/payload.vsix (190.9 KB)
+Downloading Microsoft.ShDocVw-17.14.36015.10-productArch.neutral/payload.vsix (44.4 KB)
+Downloading Microsoft.VisualStudio.Enterprise.Resources-17.14.37411.7-productArch.neutral/payload.vsix (83.3 KB)
+Downloading Microsoft.VisualStudio.Professional-17.14.36015.10-productArch.neutral/payload.vsix (20.1 KB)
+Downloading Microsoft.VisualStudio.Professional.Resources-17.14.36015.10-productArch.neutral/payload.vsix (10.3 KB)
+Downloading Microsoft.VisualStudio.ClientDiagnostics-17.14.36414.8-productArch.neutral/payload.vsix (625.4 KB)
+Downloading Microsoft.VisualStudio.ClientDiagnostics.Resources-17.14.36015.10-productArch.neutral/payload.vsix (16.4 KB)
+Downloading Microsoft.VisualStudio.ClientDiagnostics.Targeted-17.14.36414.8-chip.x64-machineArch.x64-productArch.neutral/payload.vsix (180.2 KB)
+Downloading Microsoft.VisualStudio.AppResponsiveness-17.14.36015.10-productArch.neutral/payload.vsix (631.2 KB)
+Downloading Microsoft.VisualStudio.AppResponsiveness.Resources-17.14.36015.10-productArch.neutral/payload.vsix (33.6 KB)
+Downloading Microsoft.VisualStudio.AppResponsiveness.Targeted-17.14.36015.10-chip.x64-productArch.neutral/payload.vsix (262.1 KB)
+Downloading Microsoft.VisualStudio.TestTools.TeamFoundationClient-17.14.37802.3-productArch.neutral/payload.vsix (5.0 MB)
+Downloading Microsoft.VisualStudio.TestTools.TeamFoundationClient.Resources-17.14.37802.3-productArch.neutral/payload.vsix (320.0 KB)
+Downloading Microsoft.VisualStudio.CodeSense.Community-17.14.36015.10-productArch.neutral/payload.vsix (104.4 KB)
+Downloading Microsoft.VisualStudio.CodeSense.Community.Resources-17.14.36015.10-productArch.neutral/payload.vsix (26.9 KB)
+Downloading Microsoft.VisualStudio.SccCodeLenses-17.14.37801.4/Microsoft.VisualStudio.SccCodeLenses.vsix (2.4 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.MDD-17.14.37628.1-productArch.neutral/payload.vsix (606.1 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.MDD.Resources-17.14.37627.15-productArch.neutral/payload.vsix (23.8 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.V2.CLI-17.14.0.2520301/Microsoft.VisualStudio.TestTools.TestPlatform.V2.CLI.vsix (19.4 MB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.V1.CLI-17.14.36015.10-productArch.x64/payload.vsix (290.1 KB)
+Downloading Microsoft.VisualStudio.TestTools.TP.V1.CLI.Resources-17.14.36015.10-productArch.neutral/payload.vsix (33.6 KB)
+Downloading Microsoft.VisualStudio.TestTools.CodeCoverage-17.14.36429.14-productArch.x64/payload.vsix (3.3 MB)
+Downloading Microsoft.VisualStudio.TestTools.CodeCoverage.Resources-17.14.36015.10-productArch.neutral/payload.vsix (542.8 KB)
+Downloading Microsoft.VisualStudio.TestTools.CodeCoverage.Msi-17.14.36015.10/Microsoft.VisualStudio.TestTools.CodeCoverage.Msi.msi (48.0 KB)
+Downloading Microsoft.VisualStudio.TestTools.CodeCoverage.Msi-17.14.36015.10/cab1.cab (19.8 KB)
+Downloading Microsoft.VisualStudio.TestTools.DynamicCodeCoverage-17.14.3.2532702/Microsoft.VisualStudio.TestTools.DynamicCodeCoverage.vsix (18.2 MB)
+Downloading Microsoft.CodeCoverage.Console.Targeted-17.14.3.2532702-productArch.x64/Microsoft.CodeCoverage.Console.X64.vsix (2.9 MB)
+Downloading Microsoft.VisualStudio.TestTools.DCC.Resources-17.14.37409.10-productArch.neutral/payload.vsix (14.9 KB)
+Downloading Microsoft.VisualStudio.InstrumentationEngine-1.0.45-productArch.neutral/payload.vsix (829.9 KB)
+Downloading Microsoft.IntelliTrace.ProfilerProxy.Msi-15.0.21225.1-chip.neutral/Microsoft.IntelliTrace.ProfilerProxy.Msi.msi (60.0 KB)
+Downloading Microsoft.IntelliTrace.ProfilerProxy.Msi.x64-15.0.21225.1-chip.x64/Microsoft.IntelliTrace.ProfilerProxy.Msi.msi (60.0 KB)
+Downloading Microsoft.IntelliTrace.Core-17.14.37502.0-productArch.neutral/payload.vsix (3.4 MB)
+Downloading Microsoft.IntelliTrace.Core.Resources-17.14.37502.0-productArch.neutral/payload.vsix (189.7 KB)
+Downloading Microsoft.IntelliTrace.Core.Targeted-17.14.36015.10-chip.x64-productArch.neutral/payload.vsix (607.3 KB)
+Downloading Microsoft.IntelliTrace.Core.Targeted.Resources-17.14.36015.10-chip.x64-productArch.neutral/payload.vsix (11.2 KB)
+Downloading Microsoft.IntelliTrace.Core.Concord-17.14.37202.16-productArch.neutral/payload.vsix (271.8 KB)
+Downloading Microsoft.VisualStudio.CodeMap-17.14.36015.10-productArch.neutral/payload.vsix (771.3 KB)
+Downloading Microsoft.VisualStudio.CodeMap.Resources-17.14.37411.7-productArch.neutral/payload.vsix (97.9 KB)
+Downloading Microsoft.VisualStudio.GraphDocument-17.14.36015.10-productArch.neutral/payload.vsix (763.4 KB)
+Downloading Microsoft.VisualStudio.GraphDocument.Resources-17.14.36511.2-productArch.neutral/payload.vsix (10.8 KB)
+Downloading Microsoft.VisualStudio.Vmp-17.14.36015.10-productArch.neutral/payload.vsix (335.8 KB)
+Downloading Microsoft.VisualStudio.Vmp.Resources-17.14.36015.10-productArch.neutral/payload.vsix (73.3 KB)
+Downloading sqllocaldb2019-17.12.4.0-chip.x64/SqlLocalDB.msi (53.4 MB)
+Downloading Microsoft.VisualStudio.ClassDesigner-17.14.36220.23-productArch.neutral/payload.vsix (1.7 MB)
+Downloading Microsoft.VisualStudio.ClassDesigner.Resources-17.14.36220.23-productArch.neutral/payload.vsix (32.9 KB)
+Downloading Microsoft.VisualStudio.Dsl.GraphObject-17.14.37502.0-productArch.x64/payload.vsix (200.7 KB)
+Downloading Microsoft.VisualStudio.TextTemplating.Integration-17.14.37628.1-productArch.neutral/payload.vsix (102.6 KB)
+Downloading Microsoft.VisualStudio.TextTemplating.Integration.Resources-17.14.37628.1-productArch.neutral/payload.vsix (1.3 KB)
+Downloading Microsoft.VisualStudio.TextTemplating.Core-17.14.37627.15-productArch.x64/payload.vsix (752.7 KB)
+Downloading Microsoft.VisualStudio.TextTemplating.Core.Resources-17.14.37627.15-productArch.neutral/payload.vsix (14.2 KB)
+Downloading Microsoft.VisualStudio.TextTemplating.MSBuild-17.14.37628.1-productArch.neutral/payload.vsix (827.6 KB)
+Downloading Microsoft.VisualStudio.TextTemplating.MSBuild.Resources-17.14.37628.1-productArch.neutral/payload.vsix (36.3 KB)
+Downloading Microsoft.CodeAnalysis.Compilers-4.14.0.2642407-productArch.x64/Microsoft.CodeAnalysis.Compilers.x64.vsix (12.0 MB)
+Downloading Microsoft.NuGet.Build.Tasks.Setup-17.2.0.2311601/Microsoft.NuGet.Build.Tasks.Setup.vsix (282.4 KB)
+Downloading Microsoft.PythonTools.BuildCore.Vsix-17.0.25079.8-productArch.neutral/Microsoft.PythonTools.BuildCore.Vsix.vsix (660.9 KB)
+Downloading Microsoft.VisualStudio.VC.Items.Pro-17.14.36015.10-productArch.neutral/payload.vsix (3.4 KB)
+Downloading Microsoft.VisualStudio.VC.Templates.General-17.14.36015.10-productArch.neutral/payload.vsix (51.1 KB)
+Downloading Microsoft.VisualStudio.VC.Templates.General.Resources-17.14.36015.10-productArch.neutral/payload.vsix (11.7 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Pro-17.14.36015.10-productArch.neutral/payload.vsix (1.1 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Pro.Resources-17.14.36015.10-productArch.neutral/payload.vsix (40.1 KB)
+Downloading Microsoft.VisualStudio.VC.Templates.Desktop-17.14.36015.10-productArch.neutral/payload.vsix (28.7 KB)
+Downloading Microsoft.VisualStudio.VC.Templates.UnitTest-17.14.36327.8-productArch.neutral/payload.vsix (8.4 KB)
+Downloading Microsoft.VisualStudio.VC.Templates.UnitTest.Resources-17.14.36324.10-productArch.neutral/payload.vsix (15.0 KB)
+Downloading Microsoft.VisualStudio.TestTools.DataCollectors-17.14.37806.2-productArch.neutral/payload.vsix (324.6 KB)
+Downloading Microsoft.VisualStudio.TestTools.DataCollectors.Resources-17.14.37806.2-productArch.neutral/payload.vsix (116.2 KB)
+Downloading Microsoft.VisualStudio.TestTools.NetworkEmulation-17.14.36015.10-productArch.neutral/payload.vsix (224.1 KB)
+Downloading Microsoft.VisualStudio.TestTools.NetworkEmulation.Resources-17.14.36015.10-productArch.neutral/payload.vsix (42.2 KB)
+Downloading Microsoft.VisualStudio.TestTools.NE.Msi.Targeted-17.14.36015.10-chip.x64/Microsoft.VisualStudio.TestTools.NetworkEmulation.Msi.x64.msi (44.0 KB)
+Downloading Microsoft.VisualStudio.TestTools.NE.Msi.Targeted-17.14.36015.10-chip.x64/cab1.cab (101.0 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.IDE-17.14.0.2630806-productArch.neutral/Microsoft.VisualStudio.TestWindow.Setup.vsix (52.6 MB)
+Downloading Microsoft.VisualStudio.TestTools.TestWIExtension-17.14.36015.10-productArch.neutral/payload.vsix (47.1 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestWIExtension.Res-17.14.36015.10-productArch.neutral/payload.vsix (24.0 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Agent-17.14.36015.10-productArch.neutral/payload.vsix (220.7 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core-17.14.37806.2-productArch.neutral/payload.vsix (0.9 MB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources-17.14.37806.2-productArch.neutral/payload.vsix (110.5 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Common-17.14.37502.11-productArch.neutral/payload.vsix (2.0 MB)
+Downloading Microsoft.VisualStudio.TestTools.TP.Legacy.Common.Res-17.14.37411.7-productArch.neutral/payload.vsix (119.3 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Premium-17.14.36015.10-productArch.neutral/payload.vsix (17.3 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Professional-17.14.36015.10-productArch.neutral/payload.vsix (62.3 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestSettings-17.14.36015.10-productArch.neutral/payload.vsix (181.6 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestSettings.Resources-17.14.36511.2-productArch.neutral/payload.vsix (52.5 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips-17.14.36015.10-productArch.neutral/payload.vsix (603.8 KB)
+Downloading Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.Resources-17.14.36015.10-productArch.neutral/payload.vsix (103.6 KB)
+Downloading Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Common-17.14.36015.10-productArch.neutral/payload.vsix (135.1 KB)
+Downloading Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Msi-17.14.36015.10/Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Msi.msi (44.0 KB)
+Downloading Microsoft.VisualStudio.TestTools.Pex.Common-17.14.36015.10-productArch.neutral/payload.vsix (1.1 MB)
+Downloading Microsoft.VisualStudio.TestTools.Pex.Common.Resources-17.14.36015.10-productArch.neutral/payload.vsix (130.8 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.Linux.ConnectionManager-17.14.37628.2-productArch.neutral/payload.vsix (1.3 MB)
+Downloading Microsoft.VisualStudio.VC.Ide.Linux.ConnectionManager.Resources-17.14.37411.7-productArch.neutral/payload.vsix (161.0 KB)
+Downloading Microsoft.VisualStudio.VC.Vcpkg-17.14.36809.10-productArch.neutral/payload.vsix (2.5 MB)
+Downloading Microsoft.VisualCpp.ATL.Headers-14.44.35208/Microsoft.VisualCpp.ATL.Headers.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.ATL.Headers.base-14.44.35208/Microsoft.VC.14.44.17.14.ATL.Headers.base.vsix (566.3 KB)
+Downloading Microsoft.VC.14.44.17.14.Servicing.ATL-14.44.35208/Microsoft.VC.14.44.17.14.Servicing.ATL.vsix (1.9 KB)
+Downloading Microsoft.VisualCpp.ATL.Source-14.44.35208/Microsoft.VisualCpp.ATL.Source.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.ATL.Source.base-14.44.35208/Microsoft.VC.14.44.17.14.ATL.Source.base.vsix (8.4 KB)
+Downloading Microsoft.VisualCpp.ATL.X64-14.44.35208/Microsoft.VisualCpp.ATL.X64.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.ATL.X64.base-14.44.35208/Microsoft.VC.14.44.17.14.ATL.X64.base.vsix (789.5 KB)
+Downloading Microsoft.VC.14.44.17.14.Props.ATLMFC-14.44.35208/Microsoft.VC.14.44.17.14.Props.ATLMFC.vsix (2.1 KB)
+Downloading Microsoft.VisualCpp.ATL.X86-14.44.35208/Microsoft.VisualCpp.ATL.X86.vsix (1.0 KB)
+Downloading Microsoft.VC.14.44.17.14.ATL.X86.base-14.44.35208/Microsoft.VC.14.44.17.14.ATL.X86.base.vsix (836.2 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.ATL-17.14.36015.10-productArch.neutral/payload.vsix (11.9 KB)
+Downloading Microsoft.VisualStudio.VC.Ide.ATL.Resources-17.14.36517.40-productArch.neutral/payload.vsix (44.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/winsdksetup.exe (1.4 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/03fbc2dfe9d3e7bb2389c7ed18c6ad3e.cab (731.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/05047a45609f311645eebcac2739fc4c.cab (244.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/05254f60ea43b4e3959b17cdb03268c0.cab (658.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/07a57cdb41ba28cced14005f087267be.cab (99.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/08e9468089f54c8455f59fd9bb48fcec.cab (68.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/0b2a4987421d95d0cb37640889aa9e9b.cab (229.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/12613ba26e037e99a874a64c1084f880.cab (558.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/126c039acc6f1c0a9426a128efb713e7.cab (1.5 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/12a529d45b148a2d28290a8a7535b37b.cab (1.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/13bf5f9b75a9d1c9f44ba5d34a14227f.cab (91.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/13d68b8a7b6678a368e2d13ff4027521.cab (421.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/15bc5316e373960d82abc253bceaa25d.cab (34.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/1623efce9d1a46396798f44a7bc769e9.cab (437.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/16ab2ea2187acffa6435e334796c8c89.cab (658.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/19248fabbb2098a7b88c4a2786066bcc.cab (765.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/1a296530f0182ff1e94f088c27d05da0.cab (16.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/1de82860db02f762c5f65a73daa31f3e.cab (13.4 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/1f32e9acf0bb1e6a5f485cd8670cd8e1.cab (19.6 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/20e79882c0bf37840a94a4ce06bc571e.cab (1.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/220daf459e79c5d26366654b1b482e87.cab (93.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/262fa3187c00a1f695e0c3eeb7ecf423.cab (1.5 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/2630bae9681db6a9f6722366f47d055c.cab (7.3 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/263104e5ce3a72f68151a93d88a3f22f.cab (17.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/26ea25236f12b23db661acf268a70cfa.cab (92.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/2868a02217691d527e42fe0520627bfa.cab (558.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/2a30b5d1115d515c6ddd8cd6b5173835.cab (92.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/2cd67f5657d2cee1a106c4fdab506e58.cab (235.8 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/2dd914bb5abd9365f932d15eede09c52.cab (1.3 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/2e876dd22fa5e6785f137e3422dd50ec.cab (8.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/306e26e920fd32cb02bf538b4e799a0d.cab (162.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/31ec2a68a04d58dc4a3d639fddc68493.cab (227.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/353be8f91891a6a5761b9ac157fa2ff1.cab (64.6 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/3988e4dfdc3f1d180c47a61a0ca76215.cab (0.9 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/3cf96a08c3b29e9dcf5946d28affb747.cab (104.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/3e2f7be479e3679d700ce0782e4cc318.cab (32.4 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4035a83dc8e73244d15d1196d55059c3.cab (17.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/40d92f424eff54b03db4c51669f9a8d6.cab (178.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/43cc1b2daf931a3f0ea4ad696c2327fb.cab (20.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/43d52fdb99b86048e15fbd34f5b99cb5.cab (245.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/441901505fcd0b2e997ea7d954f04171.cab (19.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/44472e2321abba45e828de25827264a3.cab (20.8 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/45821d1fcb842bff411f5f2f8c1d4106.cab (17.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/463ad1b0783ebda908fd6c16a4abfe93.cab (230.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/47133212c2f5ccf49392d7762293a075.cab (1.6 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4a4c678668584fc994ead5b99ccf7f03.cab (407.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4ad4df991deb0eaa1f79f896b959d580.cab (1.5 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4c3ef4b2b1dc72149f979f4243d2accf.cab (419.8 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4c59234340aaf3a96ec480c1aad8d179.cab (592.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4dc69cc131b3f4fdde53e76d759509dc.cab (449.8 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4e2dea081242e821596b58b31bc22cca.cab (16.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4ec14c5368b7642563c070cd168960a8.cab (1.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/4fe4c8b88812f5339018c0eef95acdb9.cab (1.1 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/50ce7925226cb6ab8e0fe9ad9fd58433.cab (7.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/52a8e5203ade8fe7174c590308f2e44a.cab (453.8 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/53174a8154da07099db041b9caffeaee.cab (15.5 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/5509e4710313421be8d5e7cfbfde4d30.cab (1.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/559dbc3a49a69c6adf60b1c87b4df71b.cab (16.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/563138901adf40a699df4654138ac397.cab (1.4 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/56a114848fda9a7e47bad4b3fc4be9a6.cab (7.6 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/576cff9c50e8085ab8d9c28ee12bac3e.cab (658.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/58314d0646d7e1a25e97c902166c3155.cab (17.4 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/590d28783ff280b8b0016c3492433241.cab (8.6 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/598442d9f84639d200d4f3af477da95c.cab (56.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/5a22e5cde814b041749fb271547f4dd5.cab (14.2 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/5c2fcb46e03eada0ed0cad44a3f5c71f.cab (16.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/5c9ecffb06ed5f4fe5fb7db86bf7328b.cab (357.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/5cf1d61a223a02ff2f52fe05f058d52e.cab (1.2 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/5f6cfec263cd265cf3b0d97fd78ddf05.cab (3.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/61d57a7a82309cd161a854a6f4619e52.cab (9.2 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/66c7c64126fbf84f47ccec556d149b12.cab (16.8 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/67c9fd1fab36154e6e7e429610cd67c8.cab (749.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/67fb2af3d2219b403e419535a547c019.cab (95.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/685f3d4691f444bc382762d603a99afc.cab (1.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/68a5a2b14625f935761325cddfadca11.cab (2.2 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/68de71e3e2fb9941ee5b7c77500c0508.cab (16.6 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/69661e20556b3ca9456b946c2c881ddd.cab (20.1 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/6b12414fdb1b4978419abcd383206c09.cab (16.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/6b5a91701fdb98ac8bc4af6e238e0390.cab (1.9 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/6e86d5003787b5a44d77f0142b20f2ff.cab (100.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/6ee7bbee8435130a869cf971694fd9e2.cab (23.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/703316c9de0a32acf316d03b1cffc559.cab (9.1 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/73b80f421d7f3df5a71bd772f56bf3ae.cab (94.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/75122a9de1700f465c29b6cc76fa6372.cab (16.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/766c0ffd568bbb31bf7fb6793383e24a.cab (7.6 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/77db8ab55a0b236db83c55ced6e8a9a3.cab (15.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/78fa3c824c2c48bd4a49ab5969adaaf7.cab (49.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/7afc7b670accd8e3cc94cfffd516f5cb.cab (1.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/7b7c7382fe1ea268787e911da88eb37e.cab (147.8 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/7c3667a45d36470bf3cb648878a6ac2e.cab (756.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8016f7584c8fbeff0b032c65f4173e78.cab (38.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8038f3cc95dc4b7d0346cb2ab7e044ff.cab (1.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/80dcdb79b8a5960a384abe5a217a7e3a.cab (24.4 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8125ee239710f33ea485965f76fae646.cab (5.5 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/818d2d3634f0efb6e64d7e7c8ca5f98b.cab (109.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/838060235bcd28bf40ef7532c50ee032.cab (17.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/89d9bbd87f7a5560bafa520a4ebfdf17.cab (87.7 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8c44e508e7582f9362c66a2e47a19b5e.cab (40.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8ce0662e0e014576121e526f53d8f6b5.cab (400.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8da73ae89e24f0b5cdf1787799c2a65f.cab (1.4 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8daf1f236e631041cdaa802ddb9ccc3d.cab (105.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8e4755178e6b5bcba8d3538c3630b7a5.cab (1.1 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8eec88833ea319aaa1061d6528c77b93.cab (176.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/8fe3c1ca244ece932599eb0b61855d8f.cab (91.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/90e1202895672ce81992e71be30528cc.cab (340.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/9126f6ff98d955951fe9323f4444c119.cab (556.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/921968b1c32e680f338247ac68950f5a.cab (38.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/931721e121ef91707ddcb6cac354d95c.cab (16.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/93a74a1d34a22ae9d2e1ccc5208ad21a.cab (462.6 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/94521fd1a9c57258998d60ce60dc43c3.cab (1.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/948a611cd2aca64b1e5113ffb7b95d5f.cab (705.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/9494c0c1f781298600a3c07e837acd0f.cab (28.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/96076045170fe5db6d5dcf14b6f6688e.cab (644.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/9a7145bc3b132e5da6d44c0ab4a1af70.cab (7.5 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/9ba47e440ec2fbe9a3d32a53bf0f68dc.cab (441.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/9bcb3fab78e80d68be28892ea7ad46c3.cab (158.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/9bfca1e044c38e04afe2363d3db899c8.cab (1.1 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/a17683486ace64c3f9a1cacb81ee0260.cab (97.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/a1e2a83aa8a71c48c742eeaff6e71928.cab (25.7 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/a330840cf08ad4d210703c9acd1bf2b8.cab (1.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/a35cd6c9233b6ba3da66eecaa9190436.cab (1.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/a68c0988d16ee124783efd98074dcbf9.cab (17.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/a76e4219ecb0f1c0006a6fe080c54ad9.cab (8.1 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/aa9c58552bdb82dae4ed48ece081cfe3.cab (1.5 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ac4ddfcf1101c483559a5f6e36f1ef2d.cab (18.6 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Application Verifier arm External Package (DesktopEditions)-arm_en-us.msi (504.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Application Verifier arm External Package (OnecoreUAP)-arm_en-us.msi (2.1 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Application Verifier arm64 External Package (DesktopEditions)-arm64_en-us.msi (568.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Application Verifier arm64 External Package (OnecoreUAP)-arm64_en-us.msi (2.1 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Application Verifier x64 External Package (DesktopEditions)-x64_en-us.msi (668.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Application Verifier x64 External Package (OnecoreUAP)-x64_en-us.msi (3.5 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Application Verifier x86 External Package (DesktopEditions)-x86_en-us.msi (548.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Application Verifier x86 External Package (OnecoreUAP)-x86_en-us.msi (1.9 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/b1a824e2952532fe8fd0145f5d148d25.cab (388.7 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/b1a8ecf890b4ffddd05e8c9422f55db7.cab (152.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/b2f03f34ff83ec013b9e45c7cd8e8a73.cab (149.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/b4eea6c909a31ab051e6f9b6218beec8.cab (361.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/b5f177b84c0ec473cbd69557634b27cd.cab (16.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/b80b7321357f7c9f281536f9440dfe68.cab (16.7 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/b82881a61b7477bd4eb5de2cd5037fe2.cab (27.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/b913ca15956d14df2d4b1f11ae07885b.cab (219.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ba60f891debd633ae9c26e1372703e3c.cab (6.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/be06eca425b0c3c2f4de61cbfe9bc7a7.cab (219.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/beb5360d2daaa3167dea7ad16c28f996.cab (591.6 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/c0aa6d435b0851bf34365aadabd0c20f.cab (4.2 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/c1be9e93e88be3f6207f5cc074775d81.cab (93.6 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/c1c7e442409c0adbf81ae43aa0e4351f.cab (872.7 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/c2aabf6ea5c1d348ec22f3aeb92f8656.cab (16.7 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/c4d38a2c963178a1a3469ca3d913768e.cab (18.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/cd9128b760c06a010e1621af6528432e.cab (61.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/cdea5502a35d09ddfbcda12e3a391dc0.cab (7.2 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/d117bb4bc77abadc7c603552e122e513.cab (567.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/d3e405ab232f8aca8c5b6a48a913d6b0.cab (190.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/d67259e233ce975d91c3b02d483becad.cab (13.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/d95da93904819b1f7e68adb98b49a9c7.cab (39.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/dcfb1aa345e349091a44e86ce1766566.cab (92.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/de111c3d435b0785b31b28c386ee691f.cab (16.8 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e072b3b3d3164e26b63338dce51862a7.cab (2.6 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e10768bb6e9d0ea730280336b697da66.cab (6.9 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e10f8811d44b50885777f56f8272f66b.cab (591.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e24dd258b3bbfa69c0842948fe0dd670.cab (873.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e3bfdbe21d5f48f62e6347294e6e8492.cab (104.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e3d1b35aecfccda1b4af6fe5988ac4be.cab (16.8 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e5950ce9ba509b3370ebf328742a5f45.cab (30.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e59830bab4961666e8d8c2af1e5fa771.cab (160.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e5c4b31ff9997ac5603f4f28cd7df602.cab (1.7 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e87de81a902e0c8cde9e1355c3ff5f3f.cab (1.6 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/e98fa5eb5fee6ce17a7a69d585870b7c.cab (1.3 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ec0637c03f99046936d32d51e13a392a.cab (16.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ec9ab4bbb809719605d27da343b909e8.cab (104.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ec9d39539c27e8cf5ad39bffce00c34e.cab (219.6 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/eca0aa33de85194cd50ed6e0aae0156f.cab (39.4 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ed4d1c6b9811d81e3cebc553ae604f0d.cab (16.5 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ed5aa2f399092df3084cce671f072cac.cab (1.4 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ef4472fd7552490fd759075186ed2ec8.cab (258.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/f105a73f98cfc88c7b64d8f7b39a474c.cab (56.1 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/f4661eda3692e166927c14c96164150a.cab (0.9 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/f7b25543b47329ef932ad391c72c4ab7.cab (84.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/f87007e985bc5453a0f01ed1a5510abe.cab (18.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/f9b24c8280986c0683fbceca5326d806.cab (6.6 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/f9ff50431335056fb4fbac05b8268204.cab (16.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/fe38b2fd0d440e3c6740b626f51a22fc.cab (16.9 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/fef2cfedd6135e0ed85290b83f3682c3.cab (685.2 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/ff8dd5a961e46b5d05906ac4b7a5ba37.cab (16.3 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Kits Configuration Installer-x86_en-us.msi (436.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/MSI Development Tools-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/MsiVal2-x86_en-us.msi (640.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Orca-x86_en-us.msi (640.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/SDK ARM Additions-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/SDK ARM Redistributables-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Universal CRT Extension SDK-x86_en-us.msi (444.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Universal CRT Headers Libraries and Sources-x86_en-us.msi (568.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Universal CRT Redistributable-x86_en-us.msi (468.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Universal CRT Tools arm64-arm64_en-us.msi (460.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Universal CRT Tools x64-x64_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Universal CRT Tools x86-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Universal General MIDI DLS Extension SDK-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinAppDeploy-x86_en-us.msi (1.9 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows App Certification Kit Native Components-x64_en-us.msi (500.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows App Certification Kit Native Components-x86_en-us.msi (500.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows App Certification Kit SupportedApiList ARM-arm_en-us.msi (396.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows App Certification Kit SupportedApiList x86-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows App Certification Kit x64 (OnecoreUAP)-x86_en-us.msi (452.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows App Certification Kit x64-x86_en-us.msi (576.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows App Certification Kit x86 (OnecoreUAP)-x86_en-us.msi (452.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows App Certification Kit x86-x86_en-us.msi (576.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows Desktop Extension SDK Contracts-x86_en-us.msi (460.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows Desktop Extension SDK-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows IoT Extension SDK Contracts-x86_en-us.msi (436.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows IoT Extension SDK-x86_en-us.msi (436.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows Mobile Extension SDK Contracts-x86_en-us.msi (444.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows Mobile Extension SDK-x86_en-us.msi (452.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK ARM Desktop Tools-x86_en-us.msi (448.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Headers arm-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Headers arm64-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Headers x64-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Headers x86-x86_en-us.msi (812.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Libs arm-x86_en-us.msi (512.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Libs arm64-x86_en-us.msi (516.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Libs x64-x86_en-us.msi (516.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Libs x86-x86_en-us.msi (516.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Tools arm64-x86_en-us.msi (460.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Tools x64-x86_en-us.msi (464.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Desktop Tools x86-x86_en-us.msi (464.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK DirectX ARM Remote-arm_en-us.msi (396.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK DirectX x64 Remote-x64_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK DirectX x86 Remote-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK EULA-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Facade Windows WinMD Versioned-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps DirectX ARM Remote-arm_en-us.msi (400.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps Contracts-x86_en-us.msi (456.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps DirectX x64 Remote-x64_en-us.msi (448.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps DirectX x86 Remote-x86_en-us.msi (448.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps Headers-x86_en-us.msi (1.0 MB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps Legacy Tools-x86_en-us.msi (444.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps Libs-x86_en-us.msi (536.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps Metadata-x86_en-us.msi (444.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps Tools-x86_en-us.msi (524.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Apps-x86_en-us.msi (452.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK for Windows Store Managed Apps Libs-x86_en-us.msi (444.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Modern Non-Versioned Developer Tools-x86_en-us.msi (448.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Modern Versioned Developer Tools-x86_en-us.msi (452.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Redistributables-x86_en-us.msi (444.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK Signing Tools-x86_en-us.msi (456.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows SDK-x86_en-us.msi (452.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows Team Extension SDK Contracts-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/Windows Team Extension SDK-x86_en-us.msi (440.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense Desktop - en-us-x86_en-us.msi (484.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense Desktop - Other Languages-x86_en-us.msi (588.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense IoT - en-us-x86_en-us.msi (436.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense IoT - Other Languages-x86_en-us.msi (436.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense Mobile - en-us-x86_en-us.msi (444.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense PPI - en-us-x86_en-us.msi (436.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense PPI - Other Languages-x86_en-us.msi (436.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense UAP - en-us-x86_en-us.msi (472.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinRT Intellisense UAP - Other Languages-x86_en-us.msi (540.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/UAPSDKAddOn-x86.msi (232.0 KB)
+Downloading Win11SDK_10.0.22621-10.0.22621.7-productArch.neutral/WinSdkInstaller.exe (40.9 KB)
+Downloaded 2.2 GB in total
+Unpacking Microsoft.VisualStudio.VC.MSBuild.v170.ARM.v143
+Unpacking Microsoft.VisualStudio.VC.MSBuild.v170.ARM
+Unpacking Microsoft.VisualStudio.VC.MSBuild.v170.Base
+Unpacking Microsoft.VisualStudio.VC.MSBuild.v170.Base.Resources
+Unpacking Microsoft.VisualStudio.VC.MSBuild.v170.X64.v143
+Unpacking Microsoft.VisualStudio.VC.MSBuild.v170.X64
+Unpacking Microsoft.VisualStudio.VC.MSBuild.v170.x86.v143
+Unpacking Microsoft.VisualStudio.VC.MSBuild.v170.X86
+Skipping unpacking of Microsoft.Windows.UniversalCRT.Redistributable.Msi of type Msi
+Unpacking Microsoft.VS.VC.vcvars.x64.Shortcuts
+Unpacking Microsoft.VS.VC.vcvars.x86.Shortcuts
+Unpacking Microsoft.VisualCpp.CRT.Headers
+Unpacking Microsoft.VC.14.44.17.14.CRT.Headers.base
+Unpacking Microsoft.VC.14.44.17.14.Servicing.CrtHeaders
+Unpacking Microsoft.VC.14.44.17.14.Servicing
+Unpacking Microsoft.VC.14.44.17.14.CRT.Headers.Resources
+Unpacking Microsoft.VC.14.44.17.14.CRT.Headers.Resources.base
+Skipping unpacking of Microsoft.VisualCpp.Redist.14 of type Exe
+Skipping unpacking of Microsoft.Windows.UniversalCRT.Msu.7 of type Msu
+Skipping unpacking of Microsoft.Windows.UniversalCRT.Msu.8 of type Msu
+Skipping unpacking of Microsoft.Windows.UniversalCRT.Msu.81 of type Msu
+Unpacking Microsoft.VisualCpp.Servicing.Redist
+Skipping unpacking of Microsoft.VisualCpp.RuntimeDebug.14 of type Msi
+Skipping unpacking of Microsoft.VisualCpp.Redist.14.Latest of type Exe
+Unpacking Microsoft.VisualCpp.CRT.Redist.X64
+Unpacking Microsoft.VC.14.44.17.14.CRT.Redist.X64.base
+Unpacking Microsoft.VisualCpp.CRT.Redist.Resources
+Unpacking Microsoft.VisualCpp.CRT.Redist.X86
+Unpacking Microsoft.VC.14.44.17.14.CRT.Redist.X86.base
+Unpacking Microsoft.VisualCpp.CRT.Source
+Unpacking Microsoft.VC.14.44.17.14.CRT.Source.base
+Unpacking Microsoft.VisualCpp.CRT.x64.Desktop
+Unpacking Microsoft.VC.14.44.17.14.CRT.x64.Desktop.base
+Unpacking Microsoft.VisualCpp.CRT.x86.Desktop
+Unpacking Microsoft.VC.14.44.17.14.CRT.x86.Desktop.base
+Unpacking Microsoft.VisualCpp.DIA.SDK
+Unpacking Microsoft.VisualCpp.Servicing.DIASDK
+Unpacking Microsoft.VisualCpp.Tools.Core.x86
+Unpacking Microsoft.VisualCpp.Tools.Common.Utils
+Unpacking Microsoft.VisualCpp.Tools.Common.Utils.Resources
+Unpacking Microsoft.VC.14.44.17.14.Tools.Core.Props
+Unpacking Microsoft.VisualCpp.Tools.Core.Resources
+Skipping unpacking of Microsoft.VisualCpp.CRT.ClickOnce.Msi of type Msi
+Unpacking Microsoft.VisualCpp.CRT.Redist.x64.OneCore.Desktop
+Unpacking Microsoft.VC.14.44.17.14.CRT.Redist.x64.OneCore.Desktop.base
+Unpacking Microsoft.VisualCpp.CRT.Redist.x86.OneCore.Desktop
+Unpacking Microsoft.VC.14.44.17.14.CRT.Redist.x86.OneCore.Desktop.base
+Unpacking Microsoft.VisualCpp.CRT.x64.OneCore.Desktop
+Unpacking Microsoft.VC.14.44.17.14.CRT.x64.OneCore.Desktop.base
+Unpacking Microsoft.VisualCpp.CRT.x64.Store
+Unpacking Microsoft.VC.14.44.17.14.CRT.x64.Store.base
+Unpacking Microsoft.VisualCpp.CRT.x86.OneCore.Desktop
+Unpacking Microsoft.VC.14.44.17.14.CRT.x86.OneCore.Desktop.base
+Unpacking Microsoft.VisualCpp.CRT.x86.Store
+Unpacking Microsoft.VC.14.44.17.14.CRT.x86.Store.base
+Unpacking Microsoft.VisualCpp.PGO.Headers
+Unpacking Microsoft.VC.14.44.17.14.PGO.Headers.base
+Unpacking Microsoft.VisualCpp.PGO.X64
+Unpacking Microsoft.VC.14.44.17.14.PGO.X64.base
+Unpacking Microsoft.VisualCpp.PGO.X86
+Unpacking Microsoft.VC.14.44.17.14.PGO.X86.base
+Unpacking Microsoft.VisualCpp.Premium.Tools.HostX64.TargetX64
+Unpacking Microsoft.VC.14.44.17.14.Premium.Tools.HostX64.TargetX64.base
+Unpacking Microsoft.VC.14.44.17.14.Prem.HostX64.TargetX64.Res.base
+Unpacking Microsoft.VisualCpp.Tools.HostX64.TargetX64
+Unpacking Microsoft.VC.14.44.17.14.Tools.HostX64.TargetX64.base
+Unpacking Microsoft.VC.14.44.17.14.Tools.HostX64.TargetX64.Res.base
+Unpacking Microsoft.VC.14.44.17.14.Props.x64
+Unpacking Microsoft.VC.14.44.17.14.Props
+Unpacking Microsoft.VC.14.44.17.14.Servicing.Compilers
+Unpacking Microsoft.VisualStudio.StaticAnalysis.auxil
+Unpacking Microsoft.VisualStudio.StaticAnalysis.auxil.Resources
+Unpacking Microsoft.VisualStudio.StaticAnalysis.FxCop
+Unpacking Microsoft.VisualStudio.StaticAnalysis.FxCop.Resources
+Unpacking Microsoft.VisualStudio.StaticAnalysis.IDE
+Unpacking Microsoft.VisualStudio.StaticAnalysis.IDE.Resources
+Unpacking Microsoft.VisualCpp.CA.Ext.Hostx64.Targetx64
+Unpacking Microsoft.VC.14.44.17.14.CA.Ext.Hostx64.Targetx64.base
+Unpacking Microsoft.VC.14.44.17.14.CA.Ext.Hostx64.Targetx64.Res.base
+Unpacking Microsoft.VC.14.44.17.14.Servicing.CAExtensions
+Unpacking Microsoft.VC.14.44.17.14.CA.Rulesets.base
+Unpacking Microsoft.VC.14.44.17.14.Servicing.CARulesets
+Unpacking Microsoft.VisualCpp.CodeAnalysis.Extensions
+Unpacking Microsoft.VisualStudio.VC.UnitTest.Desktop.Build.Core
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.V1.CPP
+Unpacking Microsoft.VisualStudio.TestTools.TP.V1.CPP.Resources
+Unpacking Microsoft.VisualStudio.VC.ExternalBuildFramework
+Unpacking Microsoft.VisualStudio.VC.ExternalBuildFramework.Resources
+Unpacking Microsoft.VisualStudio.VC.CMake.Project
+Unpacking Microsoft.VisualStudio.VC.CMake.Project.Resources
+Unpacking Microsoft.VisualStudio.VC.CMake.Client
+Unpacking Microsoft.VisualStudio.VC.CMake.Client.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.Linux.Shared
+Unpacking Microsoft.VisualStudio.VC.Ide.Linux.Shared.Resources
+Unpacking SQLitePCLRaw
+Unpacking SQLitePCLRaw.Targeted
+Unpacking Microsoft.VisualStudio.VC.CMake
+Unpacking Microsoft.VisualStudio.WebTools
+Unpacking Microsoft.VisualStudio.MinShell.Targeted
+Unpacking Microsoft.VisualStudio.MinShell.Resources.x64
+Unpacking Microsoft.VisualStudio.Devenv.Config
+Unpacking Microsoft.VisualStudio.NativeImageSupport
+Unpacking Microsoft.VisualStudio.ExtensionManager.x64
+Unpacking Microsoft.VisualStudio.ExtensionManager.Auto
+Unpacking Microsoft.VisualStudio.ExtensionManager.Auto.Resources
+Unpacking Microsoft.VisualStudio.WebTools.WSP.FSA
+Unpacking Microsoft.VisualStudio.WebTools.WSP.FSA.Resources
+Unpacking Microsoft.VisualStudio.WebTools.Resources
+Unpacking Microsoft.VisualStudio.WebToolsExtensions.MSBuild
+Unpacking Microsoft.VisualStudio.WebToolsExtensions.MSBuild.Resources
+Unpacking Microsoft.VisualStudio.WebToolsExtensions
+Unpacking Microsoft.VisualStudio.WebToolsExtensions.Core
+Unpacking Microsoft.WebTools.Shared
+Unpacking Microsoft.WebTools.DotNet.Core.ItemTemplates
+Unpacking Microsoft.WebTools.DotNet.Core.ItemTemplates.Resources
+Unpacking Microsoft.WebTools.Shared.Resources
+Unpacking Microsoft.VisualStudio.WebToolsExtensions.Resources
+Unpacking Microsoft.VisualStudio.ConnectedServices.Core
+Unpacking Microsoft.VisualStudio.ProTools
+Unpacking Microsoft.VisualStudio.ProTools.Resources
+Unpacking SQLCommon
+Unpacking SQLCommon.Resources
+Unpacking SQLCommon.Targeted
+Skipping unpacking of sqlsysclrtypes of type Msi
+Unpacking Microsoft.VisualStudio.VC.Ide.Base
+Unpacking Microsoft.VisualStudio.VC.Ide.Base.Resources
+Unpacking Microsoft.VisualStudio.MinShell
+Unpacking Microsoft.VisualStudio.MinShell.Auto
+Unpacking Microsoft.VisualStudio.MinShell.Auto.Resources
+Unpacking Microsoft.VisualStudio.CoreDotNet
+Unpacking Microsoft.VisualStudio.CoreDotNet.Resources
+Unpacking Microsoft.VisualStudio.UIInternal
+Unpacking Microsoft.VisualStudio.UIInternal.Resources
+Unpacking Microsoft.VisualStudio.UIInternal.Guide
+Unpacking Microsoft.VisualStudio.Platform.Editor
+Unpacking Microsoft.VisualStudio.ExtensionManager
+Skipping unpacking of Microsoft.VisualStudio.Initializer of type Exe
+Unpacking Microsoft.VisualStudio.MefHosting
+Unpacking Microsoft.VisualStudio.MefHosting.Resources
+Unpacking Microsoft.VisualStudio.Platform.Terminal
+Unpacking Microsoft.VisualStudio.LanguageServer
+Unpacking Microsoft.VisualStudio.Extensibility.Container
+Skipping unpacking of Microsoft.VisualStudio.Setup.Configuration of type Msi
+Unpacking Microsoft.VisualStudio.Setup.Configuration.Interop
+Skipping unpacking of Microsoft.VisualStudio.Setup.WMIProvider of type Msi
+Skipping unpacking of Microsoft.Net.8.0.WindowsDesktop.Runtime of type Zip
+Skipping unpacking of Microsoft.Net.8.0.Runtime of type Zip
+Skipping unpacking of Microsoft.VisualStudio.VsWebProtocolSelector.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.VsWebProtocolSelector.Msi.Resources of type Msi
+Skipping unpacking of Microsoft.VisualStudio.GitHubProtocolHandler.Msi of type Msi
+Unpacking Microsoft.VisualStudio.IdentityDependencies
+Unpacking Microsoft.VisualStudio.Licensing
+Unpacking Microsoft.VisualStudio.Copilot.Contracts
+Unpacking Microsoft.VisualStudio.OpenTelemetry.ClientExtensions.netfx
+Unpacking Microsoft.VisualStudio.OpenTelemetry.Collector.netfx
+Unpacking Microsoft.VisualStudio.VC.Llvm.Base
+Unpacking Microsoft.VisualStudio.VC.Ide.LanguageService
+Unpacking Microsoft.VisualStudio.VC.Ide.LanguageService.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.ProjectSystem
+Unpacking Microsoft.VisualStudio.VC.Ide.Core.VCProjectEngine
+Unpacking Microsoft.VisualStudio.VC.Ide.Core.VCProjectEngine.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.ProjectSystem.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.Core
+Unpacking Microsoft.VisualStudio.VisualC.Utilities
+Unpacking Microsoft.VisualStudio.VisualC.Utilities.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.LanguageService.Dependencies
+Unpacking Microsoft.VisualStudio.VC.Ide.LanguageService.Dependencies.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.Progression.Enterprise
+Unpacking Microsoft.VisualStudio.VC.Ide.Progression.Enterprise.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.ResourceEditor
+Unpacking Microsoft.VisualStudio.VC.Ide.ResourceEditor.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.VCPkgDatabase
+Unpacking Microsoft.VisualStudio.VC.Copilot.Setup
+Unpacking Microsoft.VisualStudio.VC.Copilot.Setup.Resources
+Unpacking Microsoft.VisualStudio.Cache.Service
+Unpacking Microsoft.VisualStudio.VC.Ide.Common
+Unpacking Microsoft.VisualStudio.VC.Ide.Common.Resources
+Unpacking Microsoft.VisualStudio.VC.MSVCDis
+Unpacking Microsoft.VisualStudio.VC.Ide.Debugger
+Unpacking Microsoft.VisualStudio.VC.Ide.Debugger.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.Debugger.Concord
+Unpacking Microsoft.VisualStudio.VC.Ide.Debugger.Concord.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.Dskx
+Unpacking Microsoft.VisualStudio.VC.Ide.Dskx.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.WinXPlus
+Unpacking Microsoft.VisualStudio.Debugger
+Unpacking Microsoft.VisualStudio.Debugger.Remote.DiagnosticsHub.Client
+Unpacking Microsoft.VisualStudio.Debugger.Package.DiagHub.Client
+Unpacking Microsoft.VisualStudio.PerfLib
+Unpacking Microsoft.DiaSymReader.PortablePdb
+Unpacking Microsoft.VisualStudio.Debugger.Resources
+Unpacking Microsoft.VisualStudio.Debugger.Concord
+Unpacking Microsoft.VisualStudio.Debugger.Concord.Resources
+Unpacking Microsoft.IntelliTrace.DiagnosticsHub
+Unpacking Microsoft.IntelliTrace.DiagnosticsHub.Resources
+Unpacking Microsoft.VisualStudio.Debugger.DbgHelp.Win8
+Unpacking Microsoft.VisualStudio.Editors
+Unpacking Microsoft.VisualStudio.AzureSDK
+Unpacking Microsoft.VisualStudio.Debugger.Remote
+Unpacking Microsoft.VisualStudio.Debugger.Remote.Resources
+Unpacking Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8
+Unpacking Microsoft.VisualStudio.Debugger.Concord.Remote
+Unpacking Microsoft.VisualStudio.Debugger.Concord.Remote.Resources
+Unpacking Microsoft.VisualStudio.Debugger.TargetComposition
+Unpacking Microsoft.VisualStudio.Debugger.TargetComposition.Remote
+Unpacking Microsoft.VisualStudio.Debugger.Managed
+Unpacking Microsoft.VisualStudio.Debugger.Managed.Resources
+Unpacking Microsoft.VisualStudio.Debugger.Concord.Managed
+Unpacking Microsoft.VisualStudio.Debugger.Concord.Managed.Resources
+Unpacking Microsoft.CodeAnalysis.VisualStudio.ServiceHub.Setup.x64
+Unpacking Microsoft.CodeAnalysis.VisualStudio.Setup
+Unpacking Microsoft.CodeAnalysis.ExpressionEvaluator
+Unpacking Microsoft.DiaSymReader
+Unpacking Microsoft.VisualStudio.Debugger.Parallel
+Unpacking Microsoft.VisualStudio.Debugger.Parallel.Resources
+Unpacking Microsoft.VisualStudio.Debugger.CollectionAgents
+Unpacking Microsoft.VisualStudio.Debugger.TimeTravel.Replay.Plat.17
+Unpacking Microsoft.VisualStudio.Debugger.TimeTravel.Replay.17
+Unpacking Microsoft.VisualStudio.Debugger.TimeTravel.Replay.VS.17
+Unpacking Microsoft.VisualStudio.Debugger.AzureAttach
+Unpacking Microsoft.VisualStudio.Debugger.AzureAttach.Resources
+Unpacking Microsoft.VisualStudio.Web.Azure.Common
+Unpacking Microsoft.VisualStudio.Web.Azure.Common.Resources
+Unpacking Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost
+Unpacking Microsoft.VisualStudio.Debugger.BrokeredServices
+Unpacking Microsoft.VisualStudio.Debugger.Script
+Unpacking Microsoft.VisualStudio.Debugger.Script.Remote
+Unpacking Microsoft.VisualStudio.Debugger.Script.Remote.Resources
+Unpacking Microsoft.VisualStudio.Debugger.Script.Resources
+Skipping unpacking of Microsoft.VisualStudio.Debugger.Script.Msi of type Msi
+Unpacking Microsoft.VisualStudio.VC.Ide.x64
+Unpacking Microsoft.VisualStudio.Connected
+Unpacking Microsoft.VisualStudio.Connected.Resources
+Unpacking Microsoft.VisualStudio.Connected.Auto
+Unpacking Microsoft.VisualStudio.Connected.Auto.Resources
+Unpacking Microsoft.Developer.IdentityServiceGS
+Unpacking Microsoft.VisualStudio.Identity
+Unpacking Microsoft.VisualStudio.CoreEditor
+Unpacking Microsoft.VisualStudio.Platform.NavigateTo
+Unpacking Microsoft.VisualStudio.CoreEditor.UserProfiles
+Unpacking Microsoft.VisualStudio.Devenv
+Unpacking Microsoft.VisualStudio.Devenv.Resources
+Unpacking Microsoft.VisualStudio.ErrorList
+Unpacking Microsoft.VisualStudio.Finalizer
+Unpacking Microsoft.VisualStudio.Log
+Unpacking Microsoft.VisualStudio.Log.Resources
+Unpacking Microsoft.VisualStudio.Log.Targeted
+Skipping unpacking of CoreEditorFonts of type Msi
+Unpacking Microsoft.VisualStudio.NgenRunner
+Unpacking Microsoft.VisualStudio.MinShell.Interop
+Skipping unpacking of Microsoft.VisualStudio.MinShell.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.MinShell.Shared.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.MinShell.Msi.Resources of type Msi
+Skipping unpacking of Microsoft.VisualStudio.FileHandler.Msi of type Msi
+Unpacking Microsoft.VisualStudio.OpenFolder.VSIX
+Unpacking Microsoft.VisualStudio.ProjectServices
+Unpacking Microsoft.ServiceHub.amd64
+Skipping unpacking of Microsoft.Net.10.0.Runtime of type Zip
+Skipping unpacking of Microsoft.Net.10.0.WindowsDesktop.Runtime of type Zip
+Unpacking Microsoft.ServiceHub.Managed
+Unpacking Microsoft.ServiceHub.Node
+Unpacking Microsoft.VisualStudio.TeamExplorer
+Unpacking Microsoft.VisualStudio.Platform.Markdown
+Unpacking Microsoft.VisualStudio.TextMateGrammars
+Unpacking Microsoft.VisualStudio.GraphProvider
+Unpacking Microsoft.VisualStudio.GraphProvider.Resources
+Unpacking Microsoft.VisualStudio.GraphProvider.Auto
+Unpacking Microsoft.VisualStudio.GraphProvider.Auto.Resources
+Unpacking Microsoft.VisualStudio.GraphModel
+Unpacking Microsoft.VisualStudio.GraphModel.Resources
+Unpacking Microsoft.VisualStudio.PerformanceProvider
+Unpacking Microsoft.VisualStudio.VirtualTree
+Unpacking Microsoft.VisualStudio.VirtualTree.Resources
+Unpacking Microsoft.VisualCpp.Tools.Common.UtilsPrereq
+Unpacking Microsoft.VisualStudio.ScriptedHost
+Unpacking Microsoft.VisualStudio.ScriptedHost.Resources
+Unpacking Microsoft.VisualStudio.ScriptedHost.Targeted
+Skipping unpacking of Microsoft.WebView2 of type Exe
+Skipping unpacking of Microsoft.DiagnosticsHub.Collection.Service of type Msi
+Unpacking Microsoft.DiagnosticsHub.Collection
+Unpacking Microsoft.DiagnosticsHub.Runtime
+Unpacking Microsoft.DiagnosticsHub.Runtime.Resources
+Unpacking Microsoft.DiagnosticsHub.Runtime.Targeted
+Skipping unpacking of Microsoft.VisualStudio.MinShell.Interop.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.MinShell.Interop.Shared.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.Devenv.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.Devenv.Shared.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.Community.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.Community.Shared.Msi of type Msi
+Skipping unpacking of Microsoft.VisualStudio.Community.Msi.Resources of type Msi
+Unpacking Microsoft.VisualStudio.Community.ProductArch.Neutral
+Unpacking Microsoft.VisualStudio.Community.ProductArch.NeutralExtra
+Unpacking Microsoft.VisualStudio.Platform.CallHierarchy
+Unpacking Microsoft.MSHtml
+Unpacking Microsoft.VisualStudio.WebSiteProject.DTE
+Unpacking Microsoft.VisualStudio.Diagnostics.AspNetHelper
+Unpacking Microsoft.VisualStudio.Diagnostics.AspNetHelper.Enterprise
+Unpacking Microsoft.VisualStudio.Diagnostics.AspNetHelper.Resources
+Unpacking Microsoft.VisualStudio.Diagnostics.AspNetHelper.Standard
+Unpacking Microsoft.VisualStudio.Community.ProductArch.Resources.Neutral
+Unpacking Microsoft.VisualStudio.Community.ProductArch.Resources.NeutralExtra
+Unpacking Microsoft.VisualStudio.Net.Eula.Resources
+Unpacking Microsoft.VisualStudio.Community.ProductArch.Resources.Targeted
+Unpacking Microsoft.VisualStudio.Community.CSharp.Resources.Neutral
+Unpacking Microsoft.VisualStudio.Community.CSharp.Resources.Targeted
+Unpacking Microsoft.VisualStudio.Community.VB.Resources.Neutral
+Unpacking Microsoft.VisualStudio.Community.VB.Resources.Targeted
+Unpacking Microsoft.IntelliTrace.CollectorCab
+Unpacking Microsoft.VisualStudio.Community.ProductArch.Targeted
+Unpacking Microsoft.VisualStudio.Community.ProductArch.TargetedExtra
+Unpacking Microsoft.VisualStudio.Community.CSharp.Neutral
+Unpacking Microsoft.VisualStudio.Community.CSharp.Targeted
+Unpacking Microsoft.VisualStudio.Community.VB.Neutral
+Unpacking Microsoft.VisualStudio.Community.VB.Targeted
+Unpacking Microsoft.VisualStudio.Community.x64
+Unpacking Microsoft.VisualStudio.ProjectSystem.Full
+Unpacking Microsoft.VisualStudio.ProjectSystem
+Unpacking Microsoft.VisualStudio.ProjectSystem.Query
+Unpacking Microsoft.VisualStudio.LiveShareApi
+Unpacking Microsoft.VisualStudio.Enterprise
+Unpacking Microsoft.ShDocVw
+Unpacking Microsoft.VisualStudio.Enterprise.Resources
+Unpacking Microsoft.VisualStudio.Professional
+Unpacking Microsoft.VisualStudio.Professional.Resources
+Unpacking Microsoft.VisualStudio.ClientDiagnostics
+Unpacking Microsoft.VisualStudio.ClientDiagnostics.Resources
+Unpacking Microsoft.VisualStudio.ClientDiagnostics.Targeted
+Unpacking Microsoft.VisualStudio.AppResponsiveness
+Unpacking Microsoft.VisualStudio.AppResponsiveness.Resources
+Unpacking Microsoft.VisualStudio.AppResponsiveness.Targeted
+Unpacking Microsoft.VisualStudio.TestTools.TeamFoundationClient
+Unpacking Microsoft.VisualStudio.TestTools.TeamFoundationClient.Resources
+Unpacking Microsoft.VisualStudio.CodeSense.Community
+Unpacking Microsoft.VisualStudio.CodeSense.Community.Resources
+Unpacking Microsoft.VisualStudio.SccCodeLenses
+Unpacking Microsoft.VisualStudio.VC.Ide.MDD
+Unpacking Microsoft.VisualStudio.VC.Ide.MDD.Resources
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.V2.CLI
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.V1.CLI
+Unpacking Microsoft.VisualStudio.TestTools.TP.V1.CLI.Resources
+Unpacking Microsoft.VisualStudio.TestTools.CodeCoverage
+Unpacking Microsoft.VisualStudio.TestTools.CodeCoverage.Resources
+Skipping unpacking of Microsoft.VisualStudio.TestTools.CodeCoverage.Msi of type Msi
+Unpacking Microsoft.VisualStudio.TestTools.DynamicCodeCoverage
+Unpacking Microsoft.CodeCoverage.Console.Targeted
+Unpacking Microsoft.VisualStudio.TestTools.DCC.Resources
+Unpacking Microsoft.VisualStudio.InstrumentationEngine
+Skipping unpacking of Microsoft.IntelliTrace.ProfilerProxy.Msi of type Msi
+Skipping unpacking of Microsoft.IntelliTrace.ProfilerProxy.Msi.x64 of type Msi
+Unpacking Microsoft.IntelliTrace.Core
+Unpacking Microsoft.IntelliTrace.Core.Resources
+Unpacking Microsoft.IntelliTrace.Core.Targeted
+Unpacking Microsoft.IntelliTrace.Core.Targeted.Resources
+Unpacking Microsoft.IntelliTrace.Core.Concord
+Unpacking Microsoft.VisualStudio.CodeMap
+Unpacking Microsoft.VisualStudio.CodeMap.Resources
+Unpacking Microsoft.VisualStudio.GraphDocument
+Unpacking Microsoft.VisualStudio.GraphDocument.Resources
+Unpacking Microsoft.VisualStudio.Vmp
+Unpacking Microsoft.VisualStudio.Vmp.Resources
+Skipping unpacking of sqllocaldb2019 of type Msi
+Unpacking Microsoft.VisualStudio.ClassDesigner
+Unpacking Microsoft.VisualStudio.ClassDesigner.Resources
+Unpacking Microsoft.VisualStudio.Dsl.GraphObject
+Unpacking Microsoft.VisualStudio.TextTemplating.Integration
+Unpacking Microsoft.VisualStudio.TextTemplating.Integration.Resources
+Unpacking Microsoft.VisualStudio.TextTemplating.Core
+Unpacking Microsoft.VisualStudio.TextTemplating.Core.Resources
+Unpacking Microsoft.VisualStudio.TextTemplating.MSBuild
+Unpacking Microsoft.VisualStudio.TextTemplating.MSBuild.Resources
+Unpacking Microsoft.CodeAnalysis.Compilers
+Unpacking Microsoft.NuGet.Build.Tasks.Setup
+Unpacking Microsoft.PythonTools.BuildCore.Vsix
+Unpacking Microsoft.VisualStudio.VC.Items.Pro
+Unpacking Microsoft.VisualStudio.VC.Templates.General
+Unpacking Microsoft.VisualStudio.VC.Templates.General.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.Pro
+Unpacking Microsoft.VisualStudio.VC.Ide.Pro.Resources
+Unpacking Microsoft.VisualStudio.VC.Templates.Desktop
+Unpacking Microsoft.VisualStudio.VC.Templates.UnitTest
+Unpacking Microsoft.VisualStudio.VC.Templates.UnitTest.Resources
+Unpacking Microsoft.VisualStudio.TestTools.DataCollectors
+Unpacking Microsoft.VisualStudio.TestTools.DataCollectors.Resources
+Unpacking Microsoft.VisualStudio.TestTools.NetworkEmulation
+Unpacking Microsoft.VisualStudio.TestTools.NetworkEmulation.Resources
+Skipping unpacking of Microsoft.VisualStudio.TestTools.NE.Msi.Targeted of type Msi
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.IDE
+Unpacking Microsoft.VisualStudio.TestTools.TestWIExtension
+Unpacking Microsoft.VisualStudio.TestTools.TestWIExtension.Res
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Agent
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Resources
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Common
+Unpacking Microsoft.VisualStudio.TestTools.TP.Legacy.Common.Res
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Core.Premium
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Professional
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestSettings
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.TestSettings.Resources
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips
+Unpacking Microsoft.VisualStudio.TestTools.TestPlatform.Legacy.Tips.Resources
+Unpacking Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Common
+Skipping unpacking of Microsoft.VisualStudio.TestTools.TP.Legacy.Tips.Msi of type Msi
+Unpacking Microsoft.VisualStudio.TestTools.Pex.Common
+Unpacking Microsoft.VisualStudio.TestTools.Pex.Common.Resources
+Unpacking Microsoft.VisualStudio.VC.Ide.Linux.ConnectionManager
+Unpacking Microsoft.VisualStudio.VC.Ide.Linux.ConnectionManager.Resources
+Unpacking Microsoft.VisualStudio.VC.Vcpkg
+Unpacking Microsoft.VisualCpp.ATL.Headers
+Unpacking Microsoft.VC.14.44.17.14.ATL.Headers.base
+Unpacking Microsoft.VC.14.44.17.14.Servicing.ATL
+Unpacking Microsoft.VisualCpp.ATL.Source
+Unpacking Microsoft.VC.14.44.17.14.ATL.Source.base
+Unpacking Microsoft.VisualCpp.ATL.X64
+Unpacking Microsoft.VC.14.44.17.14.ATL.X64.base
+Unpacking Microsoft.VC.14.44.17.14.Props.ATLMFC
+Unpacking Microsoft.VisualCpp.ATL.X86
+Unpacking Microsoft.VC.14.44.17.14.ATL.X86.base
+Unpacking Microsoft.VisualStudio.VC.Ide.ATL
+Unpacking Microsoft.VisualStudio.VC.Ide.ATL.Resources
+Unpacking Win11SDK_10.0.22621
+Extracting Application Verifier arm External Package (DesktopEditions)-arm_en-us.msi
+Extracting Application Verifier arm External Package (OnecoreUAP)-arm_en-us.msi
+Extracting Application Verifier arm64 External Package (DesktopEditions)-arm64_en-us.msi
+Extracting Application Verifier arm64 External Package (OnecoreUAP)-arm64_en-us.msi
+Extracting Application Verifier x64 External Package (DesktopEditions)-x64_en-us.msi
+Extracting Application Verifier x64 External Package (OnecoreUAP)-x64_en-us.msi
+Extracting Application Verifier x86 External Package (DesktopEditions)-x86_en-us.msi
+Extracting Application Verifier x86 External Package (OnecoreUAP)-x86_en-us.msi
+Extracting Kits Configuration Installer-x86_en-us.msi
+Extracting MSI Development Tools-x86_en-us.msi
+Extracting MsiVal2-x86_en-us.msi
+Extracting Orca-x86_en-us.msi
+Extracting SDK ARM Additions-x86_en-us.msi
+Extracting SDK ARM Redistributables-x86_en-us.msi
+Extracting Universal CRT Extension SDK-x86_en-us.msi
+Extracting Universal CRT Headers Libraries and Sources-x86_en-us.msi
+Extracting Universal CRT Redistributable-x86_en-us.msi
+Extracting Universal CRT Tools arm64-arm64_en-us.msi
+Extracting Universal CRT Tools x64-x64_en-us.msi
+Extracting Universal CRT Tools x86-x86_en-us.msi
+Extracting Universal General MIDI DLS Extension SDK-x86_en-us.msi
+Extracting WinAppDeploy-x86_en-us.msi
+Extracting Windows App Certification Kit Native Components-x64_en-us.msi
+Extracting Windows App Certification Kit Native Components-x86_en-us.msi
+Extracting Windows App Certification Kit SupportedApiList ARM-arm_en-us.msi
+Extracting Windows App Certification Kit SupportedApiList x86-x86_en-us.msi
+Extracting Windows App Certification Kit x64 (OnecoreUAP)-x86_en-us.msi
+Extracting Windows App Certification Kit x64-x86_en-us.msi
+Extracting Windows App Certification Kit x86 (OnecoreUAP)-x86_en-us.msi
+Extracting Windows App Certification Kit x86-x86_en-us.msi
+Extracting Windows Desktop Extension SDK Contracts-x86_en-us.msi
+Extracting Windows Desktop Extension SDK-x86_en-us.msi
+Extracting Windows IoT Extension SDK Contracts-x86_en-us.msi
+Extracting Windows IoT Extension SDK-x86_en-us.msi
+Extracting Windows Mobile Extension SDK Contracts-x86_en-us.msi
+Extracting Windows Mobile Extension SDK-x86_en-us.msi
+Extracting Windows SDK ARM Desktop Tools-x86_en-us.msi
+Extracting Windows SDK Desktop Headers arm-x86_en-us.msi
+Extracting Windows SDK Desktop Headers arm64-x86_en-us.msi
+Extracting Windows SDK Desktop Headers x64-x86_en-us.msi
+Extracting Windows SDK Desktop Headers x86-x86_en-us.msi
+Extracting Windows SDK Desktop Libs arm-x86_en-us.msi
+Extracting Windows SDK Desktop Libs arm64-x86_en-us.msi
+Extracting Windows SDK Desktop Libs x64-x86_en-us.msi
+Extracting Windows SDK Desktop Libs x86-x86_en-us.msi
+Extracting Windows SDK Desktop Tools arm64-x86_en-us.msi
+Extracting Windows SDK Desktop Tools x64-x86_en-us.msi
+Extracting Windows SDK Desktop Tools x86-x86_en-us.msi
+Extracting Windows SDK DirectX ARM Remote-arm_en-us.msi
+Extracting Windows SDK DirectX x64 Remote-x64_en-us.msi
+Extracting Windows SDK DirectX x86 Remote-x86_en-us.msi
+Extracting Windows SDK EULA-x86_en-us.msi
+Extracting Windows SDK Facade Windows WinMD Versioned-x86_en-us.msi
+Extracting Windows SDK for Windows Store Apps Contracts-x86_en-us.msi
+Extracting Windows SDK for Windows Store Apps DirectX ARM Remote-arm_en-us.msi
+Extracting Windows SDK for Windows Store Apps DirectX x64 Remote-x64_en-us.msi
+Extracting Windows SDK for Windows Store Apps DirectX x86 Remote-x86_en-us.msi
+Extracting Windows SDK for Windows Store Apps Headers-x86_en-us.msi
+Extracting Windows SDK for Windows Store Apps Legacy Tools-x86_en-us.msi
+Extracting Windows SDK for Windows Store Apps Libs-x86_en-us.msi
+Extracting Windows SDK for Windows Store Apps Metadata-x86_en-us.msi
+Extracting Windows SDK for Windows Store Apps Tools-x86_en-us.msi
+Extracting Windows SDK for Windows Store Apps-x86_en-us.msi
+Extracting Windows SDK for Windows Store Managed Apps Libs-x86_en-us.msi
+Extracting Windows SDK Modern Non-Versioned Developer Tools-x86_en-us.msi
+Extracting Windows SDK Modern Versioned Developer Tools-x86_en-us.msi
+Extracting Windows SDK Redistributables-x86_en-us.msi
+Extracting Windows SDK Signing Tools-x86_en-us.msi
+Extracting Windows SDK-x86_en-us.msi
+Extracting Windows Team Extension SDK Contracts-x86_en-us.msi
+Extracting Windows Team Extension SDK-x86_en-us.msi
+Extracting WinRT Intellisense Desktop - en-us-x86_en-us.msi
+Extracting WinRT Intellisense Desktop - Other Languages-x86_en-us.msi
+Extracting WinRT Intellisense IoT - en-us-x86_en-us.msi
+Extracting WinRT Intellisense IoT - Other Languages-x86_en-us.msi
+Extracting WinRT Intellisense Mobile - en-us-x86_en-us.msi
+Extracting WinRT Intellisense PPI - en-us-x86_en-us.msi
+Extracting WinRT Intellisense PPI - Other Languages-x86_en-us.msi
+Extracting WinRT Intellisense UAP - en-us-x86_en-us.msi
+Extracting WinRT Intellisense UAP - Other Languages-x86_en-us.msi
+Extracting UAPSDKAddOn-x86.msi
+EXIT=0
